@@ -1,14 +1,13 @@
 # Table of contents
 
 * [Welcome to VIBES](README.md)
-* [Getting Started](getting-started.md)
 * [FAQ](faq.md)
 
 ## VIBES Token
 
 * [VIBES Token](vibes-token/vibes-token.md)
-* [How To Get VIBES](vibes-token/how-to-get-vibes.md)
-* [What to do with VIBES](vibes-token/what-to-do-with-vibes.md)
+* [Where To Get VIBES](vibes-token/where-to-get-vibes.md)
+* [How To Use VIBES](vibes-token/how-to-use-vibes.md)
 
 ## Community
 
@@ -30,5 +29,9 @@
 
 * [VIBES](https://sickvibes.xyz)
 * [Discord](https://discord.gg/qDrsjcGR2F)
+* [Telegram](https://t.me/AbsoluteVibes)
+* [Snapshot](https://snapshot.org/#/sickvibes.eth)
+* [QuickSwap](https://quickswap.exchange/#/swap?inputCurrency=ETH&outputCurrency=0xd269af9008c674b3814b4830771453d6a30616eb)
 * [Screensaver World](https://screensaver.world)
+* [GitHub](https://github.com/sickvibes)
 
