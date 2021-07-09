@@ -8,7 +8,7 @@ This concept is known as [Provenance Mining](../protocol/provenance-mining.md).
 
 The token address for **VIBES** is:
 
-*  `0xd269af9008C674B3814b4830771453D6a30616eb` \([polygonscan](https://polygonscan.com/token/0xd269af9008c674b3814b4830771453d6a30616eb)\). 
+* `0xd269af9008C674B3814b4830771453D6a30616eb` \([polygonscan](https://polygonscan.com/token/0xd269af9008c674b3814b4830771453d6a30616eb)\). 
 
 See [Architecture](../protocol/architecture.md) for all contract addresses.
 

@@ -18,6 +18,8 @@
 
 ### How do I become VIBES Member?
 
+### How do I contribute to VIBES?
+
 ### How do I get the VIBES Member role in Discord?
 
 ### How are new VIBES artists added?

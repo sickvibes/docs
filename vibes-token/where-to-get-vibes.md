@@ -1,6 +1,6 @@
 # Where To Get VIBES
 
-**VIBES** is the [native token](vibes-token.md) for the VIBES cryptonetwork, and can aquired in a few ways.
+**VIBES** is the [native token](vibes-token.md) for the VIBES cryptonetwork, and can aquired in a few ways:
 
 {% hint style="info" %}
 If you were an early collector on Screensaver or a supporter of the initial BVAL NFT project, you likely recieved a **VIBES** [airdrop](vibes-token.md#initial-airdrop). Check your [wallet](https://sickvibes.xyz/wallet)!
@@ -16,7 +16,7 @@ If you own a VIBES NFT, check out your [VIBES Wallet](https://sickvibes.xyz/wall
 
 ### Community Stipends and Bounties
 
-VIBES is a community-owned protocol and invites open contribution, which is rewarded with network equity via the [Community Program](vibes-token.md#community-stipends-and-bounties). In addition, bounties will regularly be posted in Discord that can be used for ideas on how to contribute.
+VIBES is a community-owned protocol and invites open contribution, which is rewarded with network equity via various [Community Programs](vibes-token.md#community-stipends-and-bounties). In addition, bounties will regularly be posted in Discord that can be used for ideas on how to contribute.
 
 {% page-ref page="../community/contributing.md" %}
 
@@ -33,6 +33,4 @@ The token and other contracts have not been audited by a third party.
 
 No information on this website \(or any other documents mentioned therein\) is or may be considered to be advice or an invitation to enter into an agreement for any investment purpose. Further, as **VIBES** represent an experimental abstract concept, nothing on this websites qualifies or is intended to be an offering of securities in any jurisdiction nor does it constitute an offer or an invitation to purchase shares, securities or other financial product.
 {% endhint %}
-
-
 
