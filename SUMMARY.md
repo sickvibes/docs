@@ -19,8 +19,8 @@
 
 ## Protocol
 
-* [Governance Farming](protocol/governance-farming.md)
 * [Provenance Mining](protocol/provenance-mining.md)
+* [Governance Farming](protocol/governance-farming.md)
 * [Architecture](protocol/architecture.md)
 
 ## Links

@@ -1,6 +1,6 @@
 # VIBES Token
 
-**VIBES** is a [governance](../community/governance.md), utility, and coordination tool for the VIBES cryptonetwork. **VIBES** holders own a portion of the "network equity" of VIBES, allowing them to influence the direction of the protocol and art collective through various governance mechanisms.
+**VIBES** is a [governance](../community/governance.md), utility, and coordination tool for the VIBES cryptonetwork. **VIBES** holders own a portion of the network equity of VIBES, allowing them to influence the direction of the protocol and art collective through various governance mechanisms.
 
 **VIBES** is not a currency nor representation of financial value. It is not a reserve-backed token. It is an experimental digital asset that explores the consequences of tokenizing the act of holding art over time. 
 

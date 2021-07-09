@@ -2,13 +2,9 @@
 
 **VIBES** is an decentralized digital art collective and [cryptonetwork](vibes-token/vibes-token.md) on the Polygon L2 blockchain.
 
-We're an experimental [digital community sandbox](community/governance.md) for artists, collectors,  builders, and enthusiasts who want to learn by doing. 
-
-We favor permissionless problem-solving and biasing towards action. 
+We're an experimental [digital community sandbox](community/governance.md) for artists, collectors,  builders, and enthusiasts who want to ship cool stuff, make killer art, and push the boundaries of NFT and web3 applications.
 
 {% hint style="info" %}
-**TLDR**: We're here to make art and build cool things together. 
-
 We are absolutely doing this shit live.
 {% endhint %}
 
@@ -33,6 +29,8 @@ Then make sure to grab some **VIBES.**
 Contributors are rewarded with network equity via the [Community Program](vibes-token/vibes-token.md#community-stipends-and-bounties) for their contributions.
 
 {% page-ref page="community/contributing.md" %}
+
+{% page-ref page="community/bounties.md" %}
 
 
 

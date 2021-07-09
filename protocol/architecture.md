@@ -1,5 +1,15 @@
 # Architecture
 
+## Smart Contract Architecture
+
+![VIBES Smart Contract Cluster](../.gitbook/assets/screen-shot-2021-07-08-at-10.52.26-pm.png)
+
+* **VIBES Token** - The ERC-20 token contract for **VIBES**
+* **VIBES Wellspring** - Has the **VIBES** that can be [provenance mined](provenance-mining.md) locked inside of it. Manages the bookeeping associated with claiming mined **VIBES**.
+* **Token Lock Manager** - Simple lock/unlock switch for a given token ID with a time-release for unlocking. "Locking" a token just sets a flag on this contract, which can be checked by other contracts before allowing actions \(such as claiming mined **VIBES**\)
+* **Vote Power Adapter** - Exposes the VIBES vote power for a given address. Maintains a list of strategy contracts that are summed together
+* **Strategy Contracts** - Individual vote power strategies such as checking token balance, checking claimable **VIBES**, and checking pooled **VIBES** on QuickSwap.
+
 ## Contract Addresses
 
 All contracts are open source and verified on Polygonscan:
