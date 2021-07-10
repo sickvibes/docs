@@ -1,27 +1,32 @@
 # Table of contents
 
-* [Welcome to VIBES](README.md)
-* [FAQ](faq.md)
+* [🌈 Welcome to VIBES](README.md)
+* [⁉️ FAQ](faq.md)
 
-## VIBES Token
+## VIBES Protocol
 
-* [VIBES Token](vibes-token/vibes-token.md)
-* [Where To Get VIBES](vibes-token/where-to-get-vibes.md)
-* [How To Use VIBES](vibes-token/how-to-use-vibes.md)
+* [✌️VIBES Token](vibes-protocol/vibes-token/README.md)
+  * [🤑 Where To Get VIBES](vibes-protocol/vibes-token/where-to-get-vibes.md)
+  * [🔥 How To Use VIBES](vibes-protocol/vibes-token/how-to-use-vibes.md)
+* [🖼️ VIBES NFTs](vibes-protocol/vibes-nfts.md)
+* [💎 Provenance Mining](vibes-protocol/provenance-mining.md)
+* [🚜 Governance Farming](vibes-protocol/governance-farming.md)
+* [🤑 Liquidity Mining](vibes-protocol/liquidity-mining.md)
 
 ## Community
 
-* [Artists](community/artists.md)
-* [Governance](community/governance.md)
-* [Contributing](community/contributing.md)
-* [Bounties](community/bounties.md)
-* [Community Calls](community/community-calls.md)
+* [🎨 Artists](community/artists.md)
+* [🏛️ Governance](community/governance.md)
+* [💪 Contributing](community/contributing/README.md)
+  * [💰 Bounties](community/contributing/bounties.md)
 
-## Protocol
+## Resources
 
-* [Provenance Mining](protocol/provenance-mining.md)
-* [Governance Farming](protocol/governance-farming.md)
-* [Architecture](protocol/architecture.md)
+* [📚 Guides](resources/guides/README.md)
+  * [How to Connect to VIBES](resources/guides/how-to-connect-to-vibes.md)
+  * [How to Claim VIBES from an NFT](resources/guides/how-to-claim-vibes-from-an-nft.md)
+* [📹 Community Calls](resources/community-calls.md)
+* [⚙️ Architecture](resources/architecture.md)
 
 ## Links
 
