@@ -4,7 +4,7 @@
 
 ### What is VIBES?
 
-VIBES is an decentralized digital art collective and [cryptonetwork](vibes-protocol/vibes-token/) on the Polygon L2 blockchain. 
+VIBES is a decentralized digital art collective and [cryptonetwork](vibes-protocol/vibes-token/) on the Polygon L2 blockchain. 
 
 {% page-ref page="./" %}
 
@@ -32,7 +32,7 @@ VIBES is closely aligned with [Screensaver.World](https://screensaver.world), bu
 
 ### How much are VIBES worth?
 
-**VIBES** are worth whatever somebody is willing to pay for them. **VIBES** are worth the value of the tokenized representation of holding a VIBES NFT over time. **VIBES** are worth the equivalent amount of **MATIC** \(or any other digital asset\) that can be used to purchase bags on QuickSwap. **VIBES** are worth the precieved value of having control over the VIBES art collective and cryptonetwork.
+**VIBES** are worth whatever somebody is willing to pay for them. **VIBES** are worth the value of the tokenized representation of holding a VIBES NFT over time. **VIBES** are worth the equivalent amount of **MATIC** \(or any other digital asset\) that can be used to purchase bags on [QuickSwap](https://quickswap.exchange/#/swap?inputCurrency=ETH&outputCurrency=0xd269af9008c674b3814b4830771453d6a30616eb). **VIBES** are worth the perceived value of having control over the VIBES art collective and cryptonetwork.
 
 {% hint style="info" %}
 🤔 All of these answers are correct. The real question is: what are **VIBES** worth to you?
@@ -42,13 +42,25 @@ VIBES is closely aligned with [Screensaver.World](https://screensaver.world), bu
 
 For now, this is a permissioned feature that is not widely available. VIBES artists are currently chosen by the VIBES multisig and allocated **VIBES** to inject their NFTs with via the [Provenance Mining Grant Program](vibes-protocol/vibes-token/#provenance-mining-grant-program).
 
-In the future, there will be mechanisms to allow anybody to permissionlessly "bring their own **VIBES**" to inject their NFTs with.
-
 {% page-ref page="community/artists.md" %}
+
+A product is in development known as the **VIBES Lab** that will allow anybody to "BYO-VIBES" and inject **VIBES** from their wallet into any NFT they own.
+
+{% page-ref page="vibes-protocol/vibes-lab.md" %}
+
+### What is VIBES Party?
+
+VIBES Party is an upcoming product that will allow VIBES members to exercise their protocol vote power to bid, collect, and sell NFTs as a collective via autonomous smart contracts.
+
+What happens when we plug in the VIBES hive mind into NFT marketplaces? What would that collection end up looking like? How could the power of collective action and pooled capital impact the NFT space?
+
+**Let's build it and find out.**
+
+{% page-ref page="vibes-protocol/vibes-party.md" %}
 
 ### How can I get the VIBES airdrop?
 
-The **VIBES** airdrop program ran until July 12th, 2021 and is no longer active. All recipients of the initial airdop are considered **Founding Members** of VIBES.
+The **VIBES** airdrop program ran until July 12th, 2021 and is no longer active. All recipients of the initial airdrop are considered **Founding Members** of VIBES.
 
 {% page-ref page="vibes-protocol/vibes-token/where-to-get-vibes.md" %}
 
@@ -94,13 +106,15 @@ If you want to make it official, grab some **VIBES** and hop into the [Discord](
 
 Build something cool. Write something awesome. Make dope memes. Shitpost on Twitter to hype the collective. Edit these docs for spellign mistakes. 
 
-Contributing earns you **VIBES**, and everyone getting stacked.
+Contributing earns you **VIBES**, and everyone likes getting stacked.
 
 {% page-ref page="community/contributing/" %}
 
 ### How do I get the VIBES Member role in Discord?
 
-Have at least 10,000 VIBES vote power and follow the instructions in the [\#👥-join channel on Discord](https://discord.gg/3h6tmv3BBu).
+Discord roles are managed automatically via the [Collab Land](https://collab.land) bot.
+
+{% page-ref page="resources/guides/how-to-get-vibes-discord-roles.md" %}
 
 ### How are new VIBES artists added?
 
@@ -112,13 +126,13 @@ This is currently done on a case-by-case basis and is a permissioned action. If 
 
 That expression is a verbal abstraction -- a phrase that evokes the right understanding while being a lossy representation of the actual on-chain mechanisms that mediate the feature.
 
-"I hacked my Screensaver World NFTs to continously mine VIBES over time" is more accurately said as "I deployed a bookkeeping contract that references the Screensaver NFT contract and locks **VIBES** that can be released via a timelock mechanism".
+"I hacked my Screensaver World NFTs to continuously mine VIBES over time" is more accurately said as "I deployed a bookkeeping contract that references the Screensaver NFT contract and locks **VIBES** that can be released via a timelock mechanism".
 
 {% page-ref page="resources/architecture.md" %}
 
 ### Will VIBES make me rich? Should I sell my VIBES? Is VIBES a good investment?
 
-**VIBES** is designed to be a cordination and utility token.
+**VIBES** is designed to be a coordination and utility token.
 
 {% hint style="danger" %}
 **VIBES** is not a currency, financial instrument, or security. 

@@ -1,16 +1,18 @@
 # 🤑 Where To Get VIBES
 
-**VIBES** is the [native token](./) for the VIBES cryptonetwork, and can aquired in a few different ways:
+**VIBES** is the [native token](./) for the VIBES cryptonetwork, and can acquired in a few different ways:
 
 * Mine **VIBES**
 * Earn **VIBES**
 * Buy **VIBES**
 
+{% embed url="https://twitter.com/bvalosek/status/1411560189120106506" %}
+
 {% hint style="info" %}
-If you were an early collector on Screensaver or a supporter of the initial BVAL NFT project, you likely recieved a **VIBES** [airdrop](./#initial-airdrop). Check your [wallet](https://sickvibes.xyz/wallet)!
+If you were an early collector on Screensaver or a supporter of the initial BVAL NFT project, you likely received a **VIBES** [airdrop](./#initial-airdrop). Check your [wallet](https://sickvibes.xyz/wallet)!
 {% endhint %}
 
-### Mine VIBES
+### 💎 Mine VIBES
 
 The primary distribution mechanism of **VIBES** is _Provenance Mining_, where claimable **VIBES** are generated over time inside of NFTs minted by VIBES artists.
 
@@ -18,9 +20,9 @@ If you own a VIBES NFT, check out your [VIBES Wallet](https://sickvibes.xyz/wall
 
 {% page-ref page="../provenance-mining.md" %}
 
-### Earn VIBES
+### 💪 Earn VIBES
 
-VIBES is a community-owned protocol and invites open contribution, which is rewarded with network equity via various [Community Programs](./#community-stipends-and-bounties). In addition, bounties will regularly be posted in Discord that can be used for ideas on how to contribute.
+VIBES is a community-owned protocol and invites open contribution, which is rewarded with network equity via [Community Programs](./#community-stipends-and-bounties). In addition, bounties will regularly be posted in Discord that can be used for ideas on how to contribute.
 
 Builder stipends and community bounties are paid out via the VIBES multisig.
 
@@ -28,9 +30,9 @@ Builder stipends and community bounties are paid out via the VIBES multisig.
 
 {% page-ref page="../../community/contributing/bounties.md" %}
 
-### Buy VIBES
+### 💰Buy VIBES
 
-You can purchase **VIBES** on [QuickSwap](https://quickswap.exchange/#/swap?inputCurrency=ETH&outputCurrency=0xd269af9008c674b3814b4830771453d6a30616eb), a decentralized exchange. Be aware of low liquidity.
+You can **MATIC** \(or any other supported asset\) to purchase **VIBES** on [QuickSwap](https://quickswap.exchange/#/swap?inputCurrency=ETH&outputCurrency=0xd269af9008c674b3814b4830771453d6a30616eb), a decentralized exchange. Be aware of low liquidity.
 
 {% hint style="danger" %}
 **VIBES** is not a currency, financial instrument, or security. 

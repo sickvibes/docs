@@ -21,11 +21,15 @@ Like all tech, products, and programs in VIBES, this token is an experiment. Pro
 * **ERC-20 symbol**: VIBES
 * **ERC-20 decimals**: 18
 
-The token has no pausing functionality but there is an active minter role being held by the Treasury EOA for the time being. This may be revoked once a Gnosis Safe can be deployed on Polygon sometime in July 2021.
+The token has no pausing functionality but there is an active minter role being held by the Treasury EOA for the time being. This may be revoked once a Gnosis Safe can be deployed for the VIBES multisig on Polygon sometime in July 2021.
 
 Token holders may burn their tokens, which transfers to the zero-address and decreases the `totalSupply` reported by the token contract.
 
+The token contract is verified on [polygonscan](https://polygonscan.com/token/0xd269af9008c674b3814b4830771453d6a30616eb).
+
+{% hint style="info" %}
 See [Architecture](../../resources/architecture.md) for all contract addresses and more information.
+{% endhint %}
 
 ## Supply and Current Allocations
 
@@ -35,7 +39,7 @@ Currently, funds have been allocated and distributed incrementally:
 
 * **1,300,000 VIBES** Initial Airdrop Program
 * **3,000,000 VIBES** Community Programs
-* **60,000,000 VIBES** Provence Mining Programs
+* **60,000,000 VIBES** Provence Mining Grant Programs
 
 Unallocated funds are held by the Treasury EOA.
 
@@ -63,7 +67,7 @@ The following amounts where airdropped:
 * **10,000 VIBES** to the nine addresses that voted on the initial test proposal
 * **10,000 VIBES** to anybody providing at least 5,000 VIBES worth of VIBES-MATIC liquidity on QuickSwap
 
-The goal of this airdrop was to distribute network equity to small artists, collectors, and crypto enthusiasts in the space and encourage a grassroots bootstrapping of market liquidity. Using large DeFi airdop lists, targeting influencers and famous artists, or launching the protocol with liquidity mining from day 1 were all intentionally avoided to ensure whales did not end up large amounts of **VIBES**.
+The goal of this airdrop was to distribute network equity to small artists, collectors, and crypto enthusiasts in the space and encourage a grassroots bootstrapping of market liquidity. Using large DeFi airdop lists, targeting influencers and famous artists, or launching the protocol with liquidity mining from day 1 were all intentionally avoided to ensure whales did not end up with large amounts of **VIBES**.
 
 All recipients of the initial airdrop are considered **Founding Members** of VIBES.
 
@@ -75,7 +79,9 @@ Roughly **1,300,000 VIBES** where distributed during this airdrop.
 
 The primary distribution method of VIBES is [Provenance Mining](../provenance-mining.md), which is managed autonomously by locking VIBES from the treasury into the [VIBES Wellspring contract](../../resources/architecture.md). 
 
-The Provenance Mining Grant Program allocates funds from the **VIBES** treasury to be seeded into NFTs created by VIBES artists. This is currently a permissioned process gated by the VIBES multisig.
+The Provenance Mining Grant Program allocates funds from the **VIBES** treasury to be seeded into NFTs created by VIBES artists. 
+
+This is currently a permissioned process gated by the VIBES multisig.
 
 | Program | Date | Amount | Info |
 | :--- | :--- | :--- | :--- |

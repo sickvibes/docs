@@ -9,7 +9,7 @@
 💖 Learn by doing. Test in prod. Bias towards action.
 
 {% hint style="info" %}
-**We are absolutely doing this shit live.**
+🚧 **We are absolutely doing this shit live.**
 {% endhint %}
 
 ## Becoming a Member
@@ -34,7 +34,7 @@ What now?
 
 **VIBES** is a community-owned decentralized protocol that invites open contribution. 
 
-Build first, ask for permission later. Earn bags of **VIBES** based on your contributions and impact to the protocol.
+Build first, ask for permission later. Earn bags of **VIBES** based on your contributions and impact to the collective.
 
 Contributors are rewarded with network equity via the [Community Program](vibes-protocol/vibes-token/#community-stipends-and-bounties) for their contributions.
 

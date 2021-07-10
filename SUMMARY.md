@@ -11,6 +11,8 @@
 * [🖼️ VIBES NFTs](vibes-protocol/vibes-nfts.md)
 * [💎 Provenance Mining](vibes-protocol/provenance-mining.md)
 * [🚜 Governance Farming](vibes-protocol/governance-farming.md)
+* [🥳 VIBES Party](vibes-protocol/vibes-party.md)
+* [🧪 VIBES Lab](vibes-protocol/vibes-lab.md)
 * [🤑 Liquidity Mining](vibes-protocol/liquidity-mining.md)
 
 ## Community
@@ -24,7 +26,10 @@
 
 * [📚 Guides](resources/guides/README.md)
   * [How to Connect to VIBES](resources/guides/how-to-connect-to-vibes.md)
+  * [How to Get VIBES Discord roles](resources/guides/how-to-get-vibes-discord-roles.md)
   * [How to Claim VIBES from an NFT](resources/guides/how-to-claim-vibes-from-an-nft.md)
+  * [How to Vote on Snapshot](resources/guides/how-to-vote-on-snapshot.md)
+  * [How to Supply liquidity for VIBES](resources/guides/how-to-supply-liquidity-for-vibes.md)
 * [📹 Community Calls](resources/community-calls.md)
 * [⚙️ Architecture](resources/architecture.md)
 
