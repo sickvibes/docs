@@ -32,7 +32,9 @@ Builder stipends and community bounties are paid out via the VIBES multisig.
 
 ### 💰Buy VIBES
 
-You can **MATIC** \(or any other supported asset\) to purchase **VIBES** on [QuickSwap](https://quickswap.exchange/#/swap?inputCurrency=ETH&outputCurrency=0xd269af9008c674b3814b4830771453d6a30616eb), a decentralized exchange. Be aware of low liquidity.
+You can use **MATIC** \(or any other supported asset\) to purchase **VIBES** on [QuickSwap](https://quickswap.exchange/#/swap?inputCurrency=ETH&outputCurrency=0xd269af9008c674b3814b4830771453d6a30616eb), a decentralized exchange. 
+
+⚠️ Be aware of low liquidity.
 
 {% hint style="danger" %}
 **VIBES** is not a currency, financial instrument, or security. 

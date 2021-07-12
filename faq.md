@@ -4,7 +4,9 @@
 
 ### What is VIBES?
 
-VIBES is a decentralized digital art collective and [cryptonetwork](vibes-protocol/vibes-token/) on the Polygon L2 blockchain. 
+VIBES is a decentralized digital art collective, [cryptonetwork](vibes-protocol/vibes-token/), and experimental community of artists, collectors, builders, and enthusiasts. 
+
+We make cool art and ship dope products on the Polygon L2 blockchain. 
 
 {% page-ref page="./" %}
 
@@ -14,7 +16,7 @@ VIBES is a decentralized digital art collective and [cryptonetwork](vibes-protoc
 
 ### What is Polygon? How do I connect to VIBES?
 
-Polygon \(previously called Matic\) is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks, but generally when people talk about Polygon they are talking about the Polygon PoS network that can bridge digital assets bidirectionally with the Ethereum mainnet.
+Polygon \(previously called Matic\) is a framework for building and connecting Ethereum-compatible blockchains, but generally when people talk about Polygon they are talking about the Polygon PoS network that can bridge digital assets bidirectionally with the Ethereum mainnet.
 
 VIBES currently is deployed to the Polygon PoS network.
 
@@ -26,9 +28,29 @@ You can mine, earn, or buy **VIBES**.
 
 {% page-ref page="vibes-protocol/vibes-token/where-to-get-vibes.md" %}
 
+### What do I do with VIBES?
+
+**VIBES** is the coordination and utility token of VIBES that is used in protocol governance, VIBES products, and decentralized markets.
+
+{% page-ref page="vibes-protocol/vibes-token/how-to-use-vibes.md" %}
+
+### What is the VIBES roadmap?
+
+There is no roadmap. 
+
+🌈VIBES is an idea maze we are all exploring together.
+
+{% page-ref page="resources/updates/phase-1.md" %}
+
 ### How does VIBES relate to Screensaver.World?
 
-VIBES is closely aligned with [Screensaver.World](https://screensaver.world), but there is no official association. Currently all VIBES NFTs are minted on their platform. The VIBES functionality built on top of Screensaver NFTs was done so permissionlessly -- one of the advantages of the open nature of blockchain applications and a core tenant of VIBES: **build first, ask for permission later**.
+VIBES is closely aligned with [Screensaver.World](https://screensaver.world), but there is no official association. Currently all VIBES NFTs are minted on their platform. The VIBES functionality built on top of Screensaver NFTs was done so permissionlessly -- one of the advantages of the open nature of blockchain applications and a core tenant of VIBES: 
+
+**Build first, ask for permission later**.
+
+{% hint style="info" %}
+Screensaver is dope... check out their [Discord](https://discord.gg/wGdTeU3kk4) for art drops, bidding wars, flash auctions, and more.
+{% endhint %}
 
 ### How much are VIBES worth?
 
@@ -44,13 +66,13 @@ For now, this is a permissioned feature that is not widely available. VIBES arti
 
 {% page-ref page="community/artists.md" %}
 
-A product is in development known as the **VIBES Lab** that will allow anybody to "BYO-VIBES" and inject **VIBES** from their wallet into any NFT they own.
+A product is in development known as **VIBES Lab** that will allow anybody to "BYO-VIBES" and inject **VIBES** from their wallet into any NFT they own.
 
 {% page-ref page="vibes-protocol/vibes-lab.md" %}
 
 ### What is VIBES Party?
 
-VIBES Party is an upcoming product that will allow VIBES members to exercise their protocol vote power to bid, collect, and sell NFTs as a collective via autonomous smart contracts.
+VIBES Party is an upcoming product that will allow VIBES members to exercise their protocol vote power to bid, collect, and sell NFTs as a decentralized collective via fully on-chain mechanics.
 
 What happens when we plug in the VIBES hive mind into NFT marketplaces? What would that collection end up looking like? How could the power of collective action and pooled capital impact the NFT space?
 
@@ -78,23 +100,27 @@ If you own a **VIBES** NFT that has claimable **VIBES**, you can use the Claim U
 
 ### What is Provenance Mining?
 
-Hold VIBES NFTs over and claim the generated **VIBES** inside of them. Provenance mining is active for all VIBES NFTs.
+VIBES NFTs continuously mine **VIBES** inside of them as an intrinsically staked digital asset. The owner of the NFT can [claim](resources/guides/how-to-claim-vibes-from-an-nft.md) the mined **VIBES** at any time, which is a one-way operation. Mined **VIBES** stay inside the NFTs across sales or transfers.
 
 {% page-ref page="vibes-protocol/provenance-mining.md" %}
 
 ### What is Governance Farming?
 
-Supply market liquidity for **VIBES** and farm a \(non-tokenized\) vote power multiplier. The governance farming program is not yet active.
+Supply market liquidity for **VIBES** and farm a \(non-tokenized\) vote power multiplier. Governance farming stacks with liquidity mining. 
+
+The governance farming program is not yet active.
 
 {% page-ref page="vibes-protocol/governance-farming.md" %}
 
 ### What is Liquidity Mining?
 
-Supply market liquidity for **VIBES** and earn. This stacks with Governance Farming. The liquidity mining program is not yet active.
+Supply market liquidity for **VIBES** and earn. Liquidity mining stacks with governance farming. 
+
+The liquidity mining program is not yet active.
 
 {% page-ref page="vibes-protocol/liquidity-mining.md" %}
 
-### How do I become VIBES Member?
+### How do I join VIBES?
 
 Becoming a VIBES member starts in your heart. If you want to build cool stuff with NFTs or make sick art, you're already most of the way there.
 
@@ -126,7 +152,7 @@ This is currently done on a case-by-case basis and is a permissioned action. If 
 
 That expression is a verbal abstraction -- a phrase that evokes the right understanding while being a lossy representation of the actual on-chain mechanisms that mediate the feature.
 
-"I hacked my Screensaver World NFTs to continuously mine VIBES over time" is more accurately said as "I deployed a bookkeeping contract that references the Screensaver NFT contract and locks **VIBES** that can be released via a timelock mechanism".
+"I hacked my Screensaver World NFTs to continuously mine VIBES over time" is more accurately said as "I deployed a bookkeeping contract that references the Screensaver NFT contract and locks **VIBES** that can be released via a time-lock mechanism".
 
 {% page-ref page="resources/architecture.md" %}
 
