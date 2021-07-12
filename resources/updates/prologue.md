@@ -2,7 +2,7 @@
 description: Distribution
 ---
 
-# Prologue
+# VIBES Prologue
 
 > 🐇 [The BVAL NFT Project](https://tokens.bvalosek.com/project) has expanded to Layer 2. We're further down the rabbit hole than ever now.
 >

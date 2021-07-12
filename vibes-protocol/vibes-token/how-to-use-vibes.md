@@ -10,7 +10,7 @@
 
 VIBES is a decentralized [cryptonetwork](./) that is owned by the community. If you hold **VIBES**, own NFTs with **VIBES** staked inside of them, or are supplying market liquidity for **VIBES** - you have "vote power" in the protocol. 
 
-Using your vote power to influence, control, or direct the protocol through off-chain signaling or on-chain voting is known as crypto governance.
+Using your vote power to influence, control, or direct the protocol via off-chain signaling or on-chain voting is known as crypto governance.
 
 {% hint style="info" %}
 You can check your VIBES vote power at [sickvibes.xyz/wallet](https://sickvibes.xyz/wallet)
@@ -18,13 +18,9 @@ You can check your VIBES vote power at [sickvibes.xyz/wallet](https://sickvibes.
 
 {% page-ref page="../../community/governance.md" %}
 
-### Off-chain Signaling
+### Snapshot
 
 VIBES uses [Snapshot](https://snapshot.org/#/sickvibes.eth) for off-chain signaling, which lets you securely vote by using your web3 wallet to cast a signed ballot. 
-
-Off-chain signaling is great for gauging community consensus around how to use shared resources, or to semi-formally signal support for a change in the protocol. Feel free to use Snapshot in more creative ways if you think it'd be helpful or fun.
-
-Snapshot is just a tool: since it's not on-chain it's not binding except at the "social layer". Don't feel like a snapshot vote needs to be setup for everything, but it can be a great way to encourage community involvement and allow people to voice their opinion
 
 {% page-ref page="../../resources/guides/how-to-vote-on-snapshot.md" %}
 
@@ -36,9 +32,11 @@ To incentivize market liquidity and reward liquidity providers, VIBES will launc
 
 ## 🧪 VIBES Products
 
-The VIBES collective is an experimental digital community sandbox for artists, collectors, and builders that want to push the boundaries of NFTs and digital coordination.
+**VIBES** can be used as a utility token across various products and future experiments shipped by the VIBES collective.
 
-**VIBES** can be used across various products and future experiments shipped by the VIBES collective.
+{% hint style="info" %}
+Being a [VIBES member ](../../community/governance.md#membership-threshold)will grant you early access to VIBES products and features via token-gating mechanisms.
+{% endhint %}
 
 ### VIBES Lab
 
@@ -74,7 +72,7 @@ Liquidity providers earn fees when trades occur on the exchange, proportional to
 
 Being a liquidity provider can allow for passive earning, but it's not without risk. If the VIBES-MATIC market price changes substantially from when an LP entered the pool vs when they exited, their position will be worth less than if they had just held the individual assets. This is mathematical consequence of the market-making algorithm known as "impermanent loss".
 
-Impermanent loss can be offset by earned fees and other incentives such as the VIBES Liquidity Mining program.
+Impermanent loss can be offset by earned fees and other incentives such as the [VIBES Liquidity Mining program](../liquidity-mining.md).
 
 {% page-ref page="../../resources/guides/how-to-supply-liquidity-for-vibes.md" %}
 

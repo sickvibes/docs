@@ -8,7 +8,7 @@
 * [✌️VIBES Token](vibes-protocol/vibes-token/README.md)
   * [🤑 Where To Get VIBES](vibes-protocol/vibes-token/where-to-get-vibes.md)
   * [🔥 How To Use VIBES](vibes-protocol/vibes-token/how-to-use-vibes.md)
-* [🖼️ VIBES NFTs](vibes-protocol/vibes-nfts.md)
+  * [💰 Treasury Allocations](vibes-protocol/vibes-token/treasury-allocations.md)
 * [💎 Provenance Mining](vibes-protocol/provenance-mining.md)
 * [🚜 Governance Farming](vibes-protocol/governance-farming.md)
 * [🧪 VIBES Lab](vibes-protocol/vibes-lab.md)
@@ -19,8 +19,8 @@
 
 * [🎨 Artists](community/artists.md)
 * [🏛️ Governance](community/governance.md)
-* [💪 Contributing](community/contributing/README.md)
-  * [💰 Bounties](community/contributing/bounties.md)
+* [💪 Contributing](community/contributing.md)
+* [💰 Bounties](community/bounties.md)
 
 ## Resources
 
@@ -31,8 +31,8 @@
   * [How to Vote on Snapshot](resources/guides/how-to-vote-on-snapshot.md)
   * [How to Supply liquidity for VIBES](resources/guides/how-to-supply-liquidity-for-vibes.md)
 * [📰 Updates](resources/updates/README.md)
-  * [Prologue](resources/updates/prologue.md)
-  * [Phase 1](resources/updates/phase-1.md)
+  * [VIBES Prologue](resources/updates/prologue.md)
+  * [VIBES Phase 1](resources/updates/phase-1.md)
 * [📹 Community Calls](resources/community-calls.md)
 * [⚙️ Architecture](resources/architecture.md)
 

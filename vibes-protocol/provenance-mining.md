@@ -1,6 +1,2 @@
 # 💎 Provenance Mining
 
-
-
-
-

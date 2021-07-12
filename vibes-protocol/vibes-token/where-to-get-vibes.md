@@ -26,9 +26,9 @@ VIBES is a community-owned protocol and invites open contribution, which is rewa
 
 Builder stipends and community bounties are paid out via the VIBES multisig.
 
-{% page-ref page="../../community/contributing/" %}
+{% page-ref page="../../community/contributing.md" %}
 
-{% page-ref page="../../community/contributing/bounties.md" %}
+{% page-ref page="../../community/bounties.md" %}
 
 ### 💰Buy VIBES
 

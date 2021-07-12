@@ -40,6 +40,8 @@ There is no roadmap.
 
 🌈VIBES is an idea maze we are all exploring together.
 
+{% page-ref page="resources/updates/prologue.md" %}
+
 {% page-ref page="resources/updates/phase-1.md" %}
 
 ### How does VIBES relate to Screensaver.World?
@@ -90,8 +92,6 @@ The **VIBES** airdrop program ran until July 12th, 2021 and is no longer active.
 
 All VIBES NFTs are currently minted on [Screensaver.World](https://screensaver.world), so check out their marketplace and community. You can also visit the VIBES site at [sickvibes.xyz](https://sickvibes.xyz)
 
-{% page-ref page="vibes-protocol/vibes-nfts.md" %}
-
 ### How do I claim mined VIBES?
 
 If you own a **VIBES** NFT that has claimable **VIBES**, you can use the Claim UI from the Token Detail page to claim the VIBES from your wallet. This is a one way operation!
@@ -134,7 +134,7 @@ Build something cool. Write something awesome. Make dope memes. Shitpost on Twit
 
 Contributing earns you **VIBES**, and everyone likes getting stacked.
 
-{% page-ref page="community/contributing/" %}
+{% page-ref page="community/contributing.md" %}
 
 ### How do I get the VIBES Member role in Discord?
 
