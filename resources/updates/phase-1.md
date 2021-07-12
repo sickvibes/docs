@@ -14,7 +14,19 @@ There is no roadmap for **VIBES**, this will never be a linear path. VIBES is an
 
 But even without a roadmap, it's important to have a sense of where we're going. The next phase of VIBES will be foundational as core parts of the protocol thesis are tested and the initial paths of the idea maze are explored.
 
-🔥LFG
+Proposals were passed to allocate another 30 million **VIBES** for provenance mining, and 3 million VIBES for community and builder stipends, and the site and [smart contract cluster](../architecture.md) are in active development.
+
+### 🔥 Keeping Up
+
+If you're just getting caught up with what's going on on VIBES, the following steps are recommended:
+
+* Poke around on [sick vibes dot xyz](https://sickvibes.xyz)
+* Read these docs top to bottom, starting with [Welcome To VIBES](../../)
+* Read the [\#🗣️-announcements channel](https://discord.gg/ruag8nsGpB) on Discord
+* Ask questions on Discord
+* Start [contributing](../../community/contributing.md)
+
+Y'all ready for Phase 1 of VIBES?
 
 ## The Maze
 
