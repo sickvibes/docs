@@ -22,6 +22,12 @@ VIBES currently is deployed to the Polygon PoS network.
 
 {% page-ref page="resources/guides/how-to-connect-to-vibes.md" %}
 
+### Why Polygon?
+
+Polygon has effectively free transaction costs. This is crucial for reducing development and deployment hurdles and lowering user friction -- and we want to encourage experimentation and usage. 
+
+It's also 100% EVM compatible \(can deploy the [VIBES contract cluster](resources/architecture.md) on Ethereum or any other EVM chain\) and Ethereum-aligned \(not attempting to compete with Ethereum\).
+
 ### Where do I get some VIBES?
 
 You can mine, earn, or buy **VIBES**.
@@ -102,7 +108,7 @@ If you own a **VIBES** NFT that has claimable **VIBES**, you can use the Claim U
 
 VIBES NFTs continuously mine **VIBES** inside of them as an intrinsically staked digital asset. The owner of the NFT can [claim](resources/guides/how-to-claim-vibes-from-an-nft.md) the mined **VIBES** at any time, which is a one-way operation. Mined **VIBES** stay inside the NFTs across sales or transfers.
 
-{% page-ref page="vibes-protocol/provenance-mining.md" %}
+{% page-ref page="vibes-protocol/provenance-mining/" %}
 
 ### What is Governance Farming?
 

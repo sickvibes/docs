@@ -1,2 +1,2 @@
-# How to Get VIBES Discord roles
+# ❓ How to Get VIBES Discord roles
 

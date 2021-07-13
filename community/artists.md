@@ -8,7 +8,7 @@ The only additional prerequisite for a VIBES artist is being hella dope 🤙.
 
 ## VIBES Artists
 
-A VIBES artist is anyone who mints an NFT that is injected with **VIBES** which can be claimed by collectors via [Provenance Mining](../vibes-protocol/provenance-mining.md).
+A VIBES artist is anyone who mints an NFT that is injected with **VIBES** which can be claimed by collectors via [Provenance Mining](../vibes-protocol/provenance-mining/).
 
 Soon any artist can inject the **VIBES** in their wallet to NFTs that they mint in VIBES Lab, which will be released sometime in July 2021.
 

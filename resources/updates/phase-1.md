@@ -33,7 +33,7 @@ Y'all ready for Phase 1 of VIBES?
 
 ### 🎨 Artists
 
-A [proposal](https://snapshot.org/#/sickvibes.eth/proposal/QmdwL7CMqaDjha3nJvm69HtHjUSH5Ma8ozhxm7YF4aYiRh) passed to allocate another 30 million **VIBES** to new artists in the form of [provenance mining](../../vibes-protocol/provenance-mining.md) grants.
+A [proposal](https://snapshot.org/#/sickvibes.eth/proposal/QmdwL7CMqaDjha3nJvm69HtHjUSH5Ma8ozhxm7YF4aYiRh) passed to allocate another 30 million **VIBES** to new artists in the form of [provenance mining](../../vibes-protocol/provenance-mining/) grants.
 
 * What happens when new [artists](../../community/artists.md) are responsible for distributing large portions of network equity from the [VIBES treasury](../../vibes-protocol/vibes-token/#provenance-mining-grant-program) to their collectors? 
 * How will artists use [VIBES Lab](../../vibes-protocol/vibes-lab.md) to \(re\)circulate **VIBES** inside of their NFTs in a fully permissionless way?
@@ -57,7 +57,7 @@ Several protocol additions are being developed right now to add to the on-chain 
 
 * Will [Governance Farming](../../vibes-protocol/governance-farming.md) incentivize market liquidity? 
 * When should VIBES deploy its [Liquidity Mining](../../vibes-protocol/liquidity-mining.md) program?
-* Should the rate and total-lifetime-value numbers used with [provenance mining](../../vibes-protocol/provenance-mining.md) be tweaked?
+* Should the rate and total-lifetime-value numbers used with [provenance mining](../../vibes-protocol/provenance-mining/) be tweaked?
 * How can we create open standards around NFT collections and artist-owned NFT contracts that allow for interoperable curation and discovery mechanics?
 * What are the specific mechanics and actions that [VIBES Party](../../vibes-protocol/vibes-party.md) will allow?
 

@@ -18,7 +18,7 @@ The primary distribution mechanism of **VIBES** is _Provenance Mining_, where cl
 
 If you own a VIBES NFT, check out your [VIBES Wallet](https://sickvibes.xyz/wallet) to see your current claimable **VIBES**. If you're looking to purchase a VIBES NFT, hop in the [Discord server](https://discord.gg/qDrsjcGR2F), hang around [Screensaver World](https://screensaver.world), or check out the front page of the [VIBES site](https://sickvibes.xyz).
 
-{% page-ref page="../provenance-mining.md" %}
+{% page-ref page="../provenance-mining/" %}
 
 ### 💪 Earn VIBES
 

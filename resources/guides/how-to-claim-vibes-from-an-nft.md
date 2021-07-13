@@ -1,2 +1,2 @@
-# How to Claim VIBES from an NFT
+# ❓ How to Claim VIBES from an NFT
 

@@ -4,7 +4,7 @@
 
 🏗️ We're an experimental [digital community sandbox](community/governance.md) for artists, collectors,  builders, and enthusiasts who want to ship cool stuff and make killer art. We create products that push the boundaries of NFTs, digital coordination, and web3 applications.
 
-🏴‍☠️ VIBES is not a company, organization, or legally recognized entity in any jurisdiction... it is an [idea maze](https://cdixon.org/2013/08/04/the-idea-maze) that all are invited to explore. VIBES is open-sourced and built in public.
+🏴‍☠️ VIBES is not a company, organization, or legally recognized entity in any jurisdiction; it is an [idea maze](https://cdixon.org/2013/08/04/the-idea-maze) that all are invited to explore. VIBES is open-sourced and built in public.
 
 💖 Learn by doing. Test in prod. Bias towards action.
 

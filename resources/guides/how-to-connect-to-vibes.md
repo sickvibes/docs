@@ -1,2 +1,2 @@
-# How to Connect to VIBES
+# ❓ How to Connect to VIBES
 

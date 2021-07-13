@@ -1,2 +1,2 @@
-# How to Vote on Snapshot
+# ❓ How to Vote on Snapshot
 

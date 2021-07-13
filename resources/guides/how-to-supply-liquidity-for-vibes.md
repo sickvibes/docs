@@ -1,2 +1,2 @@
-# How to Supply liquidity for VIBES
+# ❓ How to Supply liquidity for VIBES
 
