@@ -26,9 +26,13 @@ A non-exhaustive list of ways to contribute:
 * **Product ideation and brainstorming**. What else can we do with VIBES? What are some cool things we can do with NFTs? What else should we build?
 * **Social Media engagement**. Hype the collective on the timeline, share dank memes created by yourself or others. 
 * **Get others Involved**. VIBES is an early-stage protocol that is looking for curious and optimistic people to shape where we go. Get em in the Discord, get stacked.
-* **Write docs and guides**. Cleanup organization and grammar, write new [guides](../resources/guides/), create more cross-links. These docs are a living product that are an important resource for the protocol.
+* **Write docs and guides**. Cleanup organization and grammar, write new [guides](../resources/guides/), create more cross-links. These docs are a living product and an important resource for the protocol.
 * **Build cool stuff.** Can you code web3 apps? Know how to write smart contracts? Are you a Figma wizard or UX pro? Have some awesome ideas for new products? Let's make it happen.
 * **Contribute to Screensaver World.** [Screensaver](https://screensaver.world) and VIBES are independent, but aligned protocols. Help out over there \(product dev, flash auctions, etc\) and get paid in **VIBES**.
+
+The above ideas are really just the basics. VIBES is not tied to any specific market or product, we ship cool stuff on any medium.
+
+Want to start a VIBES fragrance line? 24/7 "lofi beats to study or relax to" channel featuring VIBES artists? A metaverse events venue? If you are a VIBES member, you get to decide what belongs in VIBES.
 
 ## How To Get Paid
 

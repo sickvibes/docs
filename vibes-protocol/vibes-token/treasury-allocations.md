@@ -8,6 +8,17 @@ It's possible in the future that total treasury allocations will be announced fo
 The treasury is managed by an EOA with a hardware wallet, but will be moved to a Gnosis Safe controlled by the [VIBES multisig](../../community/governance.md#vibes-multisig) later in July 2021.
 {% endhint %}
 
+## Circulating Supply <a id="founders-airdrop-program"></a>
+
+The following supply is considering in circulation from the original 1 billion tokens minted:
+
+| Item | Amount |
+| :--- | :--- |
+| Founders Airdrop | 1,350,000 **VIBES** |
+| Community Programs | 3,000,000 **VIBES** |
+| Provenance Mining Grant Programs | 60,000,000 **VIBES** |
+| **TOTAL** | **64,350,000 VIBES** |
+
 ## Founders Airdrop Program <a id="founders-airdrop-program"></a>
 
 An initial **VIBES** airdrop program ran roughly until July 12th 2021, which included the following recipients:‌

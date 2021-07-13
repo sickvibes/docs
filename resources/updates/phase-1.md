@@ -23,6 +23,7 @@ If you're just getting caught up with what's going on on VIBES, the following st
 * Poke around on [sick vibes dot xyz](https://sickvibes.xyz)
 * Read these docs top to bottom, starting with [Welcome To VIBES](../../)
 * Read the [\#🗣️-announcements channel](https://discord.gg/ruag8nsGpB) on Discord
+* Watch the video from the [first community call](../community-calls.md) \(or read the writeup\)
 * Ask questions on Discord
 * Start [contributing](../../community/contributing.md)
 

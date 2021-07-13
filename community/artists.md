@@ -16,7 +16,7 @@ Soon any artist can inject the **VIBES** in their wallet to NFTs that they mint 
 
 ## Provenance Mining Grant Recipients
 
-Currently 60 million **VIBES** have been allocated in [Provenance Mining Grant Programs](../vibes-protocol/vibes-token/#provenance-mining-grant-program). This is a way of empowering selected artists to distribute access to large portions of network equity among their collectors and community.
+Currently 60 million **VIBES** have been allocated in [Provenance Mining Grant Programs](../vibes-protocol/vibes-token/treasury-allocations.md#provenance-mining-grant-program). This is a way of empowering selected artists to distribute access to large portions of network equity among their collectors and community.
 
 Grant recipients are currently selected at the discretion of the [VIBES multisig](governance.md#vibes-multisig).
 

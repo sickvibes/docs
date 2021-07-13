@@ -20,6 +20,8 @@ Go to [sickvibes.xyz/wallet](https://sickvibes.xyz/wallet) to see your vote powe
 
 Currently, you must have **10,000 vote power** to get the [VIBES Member Discord role](../resources/guides/how-to-get-vibes-discord-roles.md) required to chat in the Governance channel or create a new Snapshot proposal.
 
+There are no requirements to be a contributor or chat in the main Discord channels.
+
 {% page-ref page="../vibes-protocol/vibes-token/where-to-get-vibes.md" %}
 
 ### Details

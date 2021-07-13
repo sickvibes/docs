@@ -31,19 +31,13 @@ The token contract is verified on [polygonscan](https://polygonscan.com/token/0x
 See [Architecture](../../resources/architecture.md) for all contract addresses and more information.
 {% endhint %}
 
-## Supply and Current Allocations
+## Circulating Supply and Current Allocations
 
 The initially minted supply for **VIBES** was 1,000,000,000 \(1 billion\) to the Treasury EOA.
 
-Currently, funds have been allocated and distributed incrementally:
+Currently, funds have been allocated and distributed incrementally with unallocated funds held by the Treasury EOA.
 
-* **1,350,000 VIBES** Airdrops
-* **3,000,000 VIBES** Community Programs
-* **60,000,000 VIBES** Provence Mining Grant Programs
-
-Unallocated funds are held by the Treasury EOA.
-
-There is no target total supply or total allocation percentages at this time, and **funds will continue to be allocated incrementally while the protocol is in early development**.
+Total circulating supply, including tokens locked inside of rewards or provenance mining contracts, is roughly **65 million VIBES**.
 
 {% page-ref page="treasury-allocations.md" %}
 
