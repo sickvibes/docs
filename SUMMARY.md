@@ -31,7 +31,7 @@
   * [❓ How to Claim VIBES from an NFT](resources/guides/how-to-claim-vibes-from-an-nft.md)
   * [❓ How to Lock a VIBES NFT](resources/guides/how-to-lock-a-vibes-nft.md)
   * [❓ How to Vote on Snapshot](resources/guides/how-to-vote-on-snapshot.md)
-  * [❓ How to Supply liquidity for VIBES](resources/guides/how-to-supply-liquidity-for-vibes.md)
+  * [❓ The  Vibes Liquidity Pool](resources/guides/how-to-supply-liquidity-for-vibes.md)
 * [📰 Updates](resources/updates/README.md)
   * [VIBES Prologue](resources/updates/prologue.md)
   * [VIBES Phase 1](resources/updates/phase-1.md)
