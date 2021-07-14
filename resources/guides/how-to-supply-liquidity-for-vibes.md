@@ -10,8 +10,8 @@ And finally, the size of the pool determines the stability of the token. The mor
 
 #### Why Would I Want to add to the VIBES Liquidity Pool?
 
-1. **It helps the VIBES ecosystem.** By providing liquidity, you help stablize the intrinsic value of the token, and become a true part of the community.
-2. **Governance Farming!** VIBES holders get to propose and vote on the direction the ecosystem takes, and LP tokens have far more voting power.
+1. **It helps the VIBES ecosystem.** By providing liquidity, you help stabilize the intrinsic value of the token, and become a true part of the community.
+2. **Governance Farming!** VIBES holders get to propose and vote on the direction the ecosystem takes, and LP tokens give the holder far more voting power.
 3. **You get a cut of the fees.** Every time a VIBES token is bought or sold on QuickSwap, you will receive a percentage of the fee for this exchange.
 
 #### What Are the Risks?
@@ -26,7 +26,7 @@ The VIBES liquidity pool is on the QuickSwap DEX. In your [VIBES wallet view](ht
 
 ![](../../.gitbook/assets/image.png)
 
-In the screenshot above, we have added 1000 VIBES from our wallet. At the current value of VIBES, this will require 2.53 Matic. Down below, you can see that once we add this to the pool, our share of the pool will be 0.37%, which means we will receive 0.37% of every fee that QuickSwap charges when someone exchanges Matic and VIBES. After we hit "Supply," and have the usual signing dialog, we hit either the back arrow on the panel, or the "Pools" link at the top of the page, and we are greeted with this, which shows everything we have in the pool.
+In the screenshot above, we have added 1000 VIBES from our wallet. At the current value of VIBES, this will require 2.53 Matic. Down below, you can see that once we add this to the pool, our share of the pool will be 0.37%, which means we will receive 0.37% of every fee that QuickSwap charges when someone exchanges Matic and VIBES. After we hit "Supply," and have the usual signing dialog, we hit either the back arrow on the panel, or the "Pools" link at the top of the page, and we are greeted with this, which shows everything we have in the pool:
 
 ![](../../.gitbook/assets/image%20%282%29.png)
 
