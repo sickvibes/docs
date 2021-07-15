@@ -10,7 +10,7 @@
 
 VIBES is a decentralized [cryptonetwork](./) that is owned by the community. If you hold **VIBES**, own NFTs with **VIBES** staked inside of them, or are supplying market liquidity for **VIBES** - you have "vote power" in the protocol. 
 
-Using your vote power to influence, control, or direct the protocol via off-chain signaling or on-chain voting is known as crypto governance.
+Using your vote power to influence, control, or direct the protocol via off-chain signaling or on-chain voting is known as digital governance.
 
 {% hint style="info" %}
 You can check your VIBES vote power at [sickvibes.xyz/wallet](https://sickvibes.xyz/wallet)

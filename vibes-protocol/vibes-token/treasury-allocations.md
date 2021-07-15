@@ -1,16 +1,16 @@
 # 💰 Treasury Allocations
 
-The VIBES treasury is currently being allocated incrementally following the [initial minting](./) of 1,000,000,000 \(1 billion\) **VIBES** tokens to the Treasury EOA.
+The VIBES treasury is currently being allocated incrementally following the [initial minting](./) of 1,000,000,000 \(1 billion\) **VIBES** tokens.
 
 It's possible in the future that total treasury allocations will be announced for the entire token supply, but during the initial phases of the protocol allocations will happen just-in-time.
 
 {% hint style="info" %}
-The treasury is managed by an EOA with a hardware wallet, but will be moved to a Gnosis Safe controlled by the [VIBES multisig](../../community/governance.md#vibes-multisig) later in July 2021.
+The treasury is managed by the [VIBES multisig](../../community/governance.md#vibes-multisig).
 {% endhint %}
 
 ## Circulating Supply <a id="founders-airdrop-program"></a>
 
-The following supply is considering in circulation from the original 1 billion tokens minted:
+The following supply is considered to be in circulation from the original 1 billion tokens minted:
 
 | Item | Amount |
 | :--- | :--- |

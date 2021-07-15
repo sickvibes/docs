@@ -12,7 +12,7 @@ Currently 26 of the 30 million **VIBES** for the first [provenance mining grant 
 
 There is no roadmap for **VIBES**, this will never be a linear path. VIBES is an [idea maze](https://cdixon.org/2013/08/04/the-idea-maze): we're here to make dope art and ship cool stuff while exploring on-chain tech and coordination.
 
-But even without a roadmap, it's important to have a sense of where we're going. The next phase of VIBES will be foundational as core parts of the protocol thesis are tested and the initial paths of the idea maze are explored.
+But even without a roadmap, it's important to have a sense of where we're going. The next phase of VIBES will be foundational as core parts of the [protocol thesis](../../vibes-protocol/provenance-mining/protocol-thesis.md) are tested and the initial paths of the idea maze are explored.
 
 Proposals were passed to allocate another 30 million **VIBES** for provenance mining, and 3 million VIBES for community and builder stipends, and the site and [smart contract cluster](../architecture.md) are in active development.
 

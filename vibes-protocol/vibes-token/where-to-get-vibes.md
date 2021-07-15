@@ -14,7 +14,7 @@ If you were an early collector on Screensaver or a supporter of the initial BVAL
 
 ### 💎 Mine VIBES
 
-The primary distribution mechanism of **VIBES** is _Provenance Mining_, where claimable **VIBES** are generated over time inside of NFTs minted by VIBES artists.
+The primary distribution mechanism of **VIBES** is _Provenance Mining_, where claimable **VIBES** are mined over time inside of NFTs minted by VIBES artists.
 
 If you own a VIBES NFT, check out your [VIBES Wallet](https://sickvibes.xyz/wallet) to see your current claimable **VIBES**. If you're looking to purchase a VIBES NFT, hop in the [Discord server](https://discord.gg/qDrsjcGR2F), hang around [Screensaver World](https://screensaver.world), or check out the front page of the [VIBES site](https://sickvibes.xyz).
 
@@ -24,7 +24,7 @@ If you own a VIBES NFT, check out your [VIBES Wallet](https://sickvibes.xyz/wall
 
 VIBES is a community-owned protocol and invites open contribution, which is rewarded with network equity via [Community Programs](./#community-stipends-and-bounties). In addition, bounties will regularly be posted in Discord that can be used for ideas on how to contribute.
 
-Builder stipends and community bounties are paid out via the VIBES multisig.
+Builder stipends and community bounties are paid out via the [VIBES multisig](../../community/governance.md#vibes-multisig).
 
 {% page-ref page="../../community/contributing.md" %}
 

@@ -1,6 +1,6 @@
 # ⁉️ FAQ
 
-## Frequently Asked Questions
+Terse answers to most questions:
 
 ### What is VIBES?
 
@@ -70,7 +70,7 @@ Screensaver is dope... check out their [Discord](https://discord.gg/wGdTeU3kk4) 
 
 ### Can I inject my own NFTs with VIBES?
 
-For now, this is a permissioned feature that is not widely available. VIBES artists are currently chosen by the VIBES multisig and allocated **VIBES** to inject their NFTs with via the [Provenance Mining Grant Program](vibes-protocol/vibes-token/#provenance-mining-grant-program).
+For now, this is a permissioned feature that is not widely available. VIBES artists are currently chosen by the [VIBES multisig](community/governance.md#vibes-multisig) and allocated **VIBES** to inject their NFTs with via the [Provenance Mining Grant Program](vibes-protocol/vibes-token/#provenance-mining-grant-program).
 
 {% page-ref page="community/artists.md" %}
 
@@ -150,7 +150,7 @@ Discord roles are managed automatically via the [Collab Land](https://collab.lan
 
 ### How are new VIBES artists added?
 
-This is currently done on a case-by-case basis and is a permissioned action. If you have somebody in mind that would make a an awesome VIBES artist, reach out to the VIBES multisig.
+This is currently done on a case-by-case basis and is a permissioned action. If you have somebody in mind that would make a an awesome VIBES artist, reach out to the [VIBES multisig](community/governance.md#vibes-multisig).
 
 {% page-ref page="community/artists.md" %}
 
@@ -161,6 +161,10 @@ That expression is a verbal abstraction -- a phrase that evokes the right unders
 "I hacked my Screensaver World NFTs to continuously mine VIBES over time" is more accurately said as "I deployed a bookkeeping contract that references the Screensaver NFT contract and locks **VIBES** that can be released via a time-lock mechanism".
 
 {% page-ref page="resources/architecture.md" %}
+
+### What is the VIBES Multisig?
+
+The [VIBES multisig](community/governance.md#vibes-multisig) is an executive group that requires 3-of-5 consensus to transfer [treasury funds](vibes-protocol/vibes-token/treasury-allocations.md) and control the [protocol smart contracts](resources/architecture.md).
 
 ### Will VIBES make me rich? Should I sell my VIBES? Is VIBES a good investment?
 

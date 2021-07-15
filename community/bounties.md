@@ -19,6 +19,6 @@ Once you've completed a bounty, share in the [\#💪-contributions channel](http
 When considering the "worth" of these bounty payments, it's best to think of them in terms of network equity vs monetary equivalence. Until sufficient liquidity can be established, it will be difficult to swap significant amounts of **VIBES** for more liquid assets such as **MATIC** or **USDC**.
 
 {% hint style="info" %}
-Once larger market depth and liquidity can be established, community stipends may start being priced in terms of their equivalent monetary value.
+Once larger market depth and liquidity can be established, bounties may start being priced in terms of their equivalent monetary value.
 {% endhint %}
 
