@@ -21,7 +21,7 @@ Like all tech, products, and programs in VIBES, this token is an experiment. Pro
 * **ERC-20 symbol**: VIBES
 * **ERC-20 decimals**: 18
 
-The token has no pausing functionality but there is an active minter role being held by the Treasury EOA for the time being. This may be revoked in the future.
+The token has no pausing functionality but there is an active minter role being held by the VIBES [multisig](../../community/governance.md#vibes-multisig). This may be revoked in the future.
 
 Token holders may burn their tokens, which transfers to the zero-address and decreases the `totalSupply` reported by the token contract.
 
@@ -35,7 +35,7 @@ See [Architecture](../../resources/architecture.md) for all contract addresses a
 
 The initially minted supply for **VIBES** was 1,000,000,000 \(1 billion\).
 
-Currently, funds have been allocated and distributed incrementally with unallocated funds held by the Treasury EOA.
+Currently, funds have been allocated and distributed incrementally with unallocated funds held by the VIBES [multisig](../../community/governance.md#vibes-multisig).
 
 Total circulating supply, including tokens locked inside of rewards or provenance mining contracts, is roughly **65 million VIBES**.
 

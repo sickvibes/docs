@@ -26,7 +26,7 @@ There are no requirements to be a contributor or chat in the main Discord channe
 
 ### Details
 
-Vote power calculation for VIBES happens entirely on-chain via the [Vote Power Adapter](../resources/architecture.md) smart contract. The strategies used can be dynamically set by the VIBES multisig.
+Vote power calculation for VIBES happens entirely on-chain via the [Vote Power Adapter](../resources/architecture.md) smart contract. The strategies used can be dynamically set by the VIBES [multisig](governance.md#vibes-multisig).
 
 Currently, vote power is the sum of the values calculated from the following strategies:
 
@@ -76,7 +76,7 @@ We are an early-phase protocol and are avoiding having explicit roles and favor 
 
 The VIBES multisig members where chosen by @bvalosek in the initial phases of VIBES based on mutual trust, friendship, crypto fluency, and support of both the VIBES project and the [BVAL NFT project](../resources/updates/prologue.md) that started it.
 
-The multisig is a social-layer coordination group, but a Gnosis Safe has been deployed and protocol control and funds will be gradually transferred from the Treasury EOA to the multisig. 
+The multisig is a social-layer coordination group, and Gnosis Safe has been deployed to manage protocol assets and smart contract control. 
 
 {% hint style="info" %}
 All on-chain actions and off-chain agreements requires **3-of-5 consensus** among multisig members.

@@ -68,13 +68,13 @@ Screensaver is dope... check out their [Discord](https://discord.gg/wGdTeU3kk4) 
 🤔 All of these answers are correct. The real question is: what are **VIBES** worth to you?
 {% endhint %}
 
-### Can I inject my own NFTs with VIBES?
+### Can I seed my own NFTs with VIBES?
 
 For now, this is a permissioned feature that is not widely available. VIBES artists are currently chosen by the [VIBES multisig](community/governance.md#vibes-multisig) and allocated **VIBES** to inject their NFTs with via the [Provenance Mining Grant Program](vibes-protocol/vibes-token/#provenance-mining-grant-program).
 
 {% page-ref page="community/artists.md" %}
 
-A product is in development known as **VIBES Lab** that will allow anybody to "BYO-VIBES" and inject **VIBES** from their wallet into any NFT they own.
+A product is in development known as **VIBES Lab** that will allow anybody to "BYO-VIBES" and seed any NFT they currently own with **VIBES** from their wallet.
 
 {% page-ref page="vibes-protocol/vibes-lab.md" %}
 
