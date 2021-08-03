@@ -16,9 +16,11 @@
 
 Becoming a [member of VIBES](community/governance.md#membership-threshold) is truly a journey of the mind and soul, but if you want to make it official, dive into the docs or hop in the [VIBES Discord](https://discord.gg/qDrsjcGR2F) to learn more.
 
-Absolutely make sure to grab some **VIBES**, the utility and coordination token of the VIBES collective.
+Absolutely make sure to grab some **VIBES** \(our utility token\), and mint a **SQNCR**, the modular utility NFT of the VIBES protocol.
 
 {% page-ref page="vibes-protocol/vibes-token/where-to-get-vibes.md" %}
+
+{% page-ref page="vibes-protocol/sqncr.md" %}
 
 ## Using VIBES
 
@@ -38,5 +40,5 @@ Build first, ask for permission later. Earn bags of **VIBES** based on your cont
 
 Contributors are rewarded with network equity via the [Community Program](vibes-protocol/vibes-token/treasury-allocations.md#community-programs) for their contributions.
 
-{% page-ref page="community/contributing.md" %}
+{% page-ref page="community/contributing/" %}
 

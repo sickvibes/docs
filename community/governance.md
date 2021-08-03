@@ -35,7 +35,7 @@ Currently, vote power is the sum of the values calculated from the following str
 * Claimable **VIBES** within any VIBES NFTs currently held in your wallet. This will change over time as more **VIBES** are mined or **VIBES** are claimed. If you sell or transfer the NFT without [claiming](../resources/guides/how-to-claim-vibes-from-an-nft.md) the mined **VIBES**, your vote power will drop.
 
 {% hint style="info" %}
-The upcoming [Governance Farming](../vibes-protocol/governance-farming.md) program will inflate the vote power contribution from being an LP.
+In order to incentivize liquidity in the short term and mitigate the fluctuation in the underlying **VIBES**, vote power from being an LP may have a static multiplier applied.
 {% endhint %}
 
 ## Process
@@ -70,7 +70,7 @@ The organization of VIBES is intentionally very flat, simple, and non-prescripti
 
 We are an early-phase protocol and are avoiding having explicit roles and favor open, permissionless contribution. 
 
-{% page-ref page="contributing.md" %}
+{% page-ref page="contributing/" %}
 
 ### VIBES Multisig
 
@@ -89,7 +89,7 @@ The address of the multisig Gnosis Safe:
 The multisig is responsible for:
 
 * Handling [VIBES Treasury](../vibes-protocol/vibes-token/treasury-allocations.md) funds
-* Determining [community stipend](contributing.md) payouts
+* Determining [community stipend](contributing/) payouts
 * Selecting the initial artists to receive provenance mining [grants](../vibes-protocol/vibes-token/#provenance-mining-grant-program) 
 * [Smart Contract](../resources/architecture.md) administration and protocol control
 * Snapshot Space configuration

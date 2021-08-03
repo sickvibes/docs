@@ -1,6 +1,6 @@
 # 💰 Bounties
 
-Bounties are a great way to [start contributing to VIBES](contributing.md) if you aren't sure where to begin. They are relatively simple, clear tasks that can be done to contribute to the protocol. 
+Bounties are a great way to [start contributing to VIBES](contributing/) if you aren't sure where to begin. They are relatively simple, clear tasks that can be done to contribute to the protocol. 
 
 Bounties are used to encourage community action and contribution, or to incentivize specific tasks / projects. 
 

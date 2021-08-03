@@ -24,7 +24,7 @@ Provenance Mining is a mechanism that allows an NFT to mine tokens over time tha
 
 An artist can distribute or sell NFTs among their collectors, community, or fans. Each NFT acts a "portal" that continuously streams mined tokens that can be claimed by the NFT owner. This allows an artist to distribute network equity among people who are interested in the art or project in a very tangible way.
 
-Injecting the NFT can only occur once, but it can occur much later than the token was minted. An artist could chose to inject the distributed token only _after_ the NFTs have been fairly distributed, "switching on" the provenance mining at a later time. 
+Seeding the NFT can only occur once, but it can occur much later than the token was minted. An artist could chose to seed the distributed token only _after_ the NFTs have been fairly distributed, "switching on" the provenance mining at a later time. 
 
 The mining rate and total lifetime value of each token can be set, creating more valuable or important tokens, and allowing for a diversity of equity distribution options for the artist.
 

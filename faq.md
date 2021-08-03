@@ -50,6 +50,12 @@ There is no roadmap.
 
 {% page-ref page="resources/updates/phase-1.md" %}
 
+### What is a SQNCR?
+
+A SQNCR is a modular and customizable NFT-based digital project. It's an early-stage experiment from VIBES, but you can mint yours now!
+
+{% page-ref page="vibes-protocol/sqncr.md" %}
+
 ### How does VIBES relate to Screensaver.World?
 
 VIBES is closely aligned with [Screensaver.World](https://screensaver.world), but there is no official association. Currently all VIBES NFTs are minted on their platform. The VIBES functionality built on top of Screensaver NFTs was done so permissionlessly -- one of the advantages of the open nature of blockchain applications and a core tenant of VIBES: 
@@ -70,23 +76,11 @@ Screensaver is dope... check out their [Discord](https://discord.gg/wGdTeU3kk4) 
 
 ### Can I seed my own NFTs with VIBES?
 
-For now, this is a permissioned feature that is not widely available. VIBES artists are currently chosen by the [VIBES multisig](community/governance.md#vibes-multisig) and allocated **VIBES** to inject their NFTs with via the [Provenance Mining Grant Program](vibes-protocol/vibes-token/#provenance-mining-grant-program).
+For now, this is a permissioned feature that is not widely available. VIBES artists are currently chosen by the [VIBES multisig](community/governance.md#vibes-multisig) and allocated **VIBES** to seed their NFTs with via the [Provenance Mining Grant Program](vibes-protocol/vibes-token/#provenance-mining-grant-program).
 
 {% page-ref page="community/artists.md" %}
 
-A product is in development known as **VIBES Lab** that will allow anybody to "BYO-VIBES" and seed any NFT they currently own with **VIBES** from their wallet.
-
-{% page-ref page="vibes-protocol/vibes-lab.md" %}
-
-### What is VIBES Party?
-
-VIBES Party is an upcoming product that will allow VIBES members to exercise their protocol vote power to bid, collect, and sell NFTs as a decentralized collective via fully on-chain mechanics.
-
-What happens when we plug in the VIBES hive mind into NFT marketplaces? What would that collection end up looking like? How could the power of collective action and pooled capital impact the NFT space?
-
-**Let's build it and find out.**
-
-{% page-ref page="vibes-protocol/vibes-party.md" %}
+In the future, artists can be invited via on-chain mechanisms and other functionality will be built to allow anybody to seed their NFTs with **VIBES** they already own.
 
 ### How can I get the VIBES airdrop?
 
@@ -110,29 +104,15 @@ VIBES NFTs continuously mine **VIBES** inside of them as an intrinsically staked
 
 {% page-ref page="vibes-protocol/provenance-mining/" %}
 
-### What is Governance Farming?
-
-Supply market liquidity for **VIBES** and farm a \(non-tokenized\) vote power multiplier. Governance farming stacks with liquidity mining. 
-
-The governance farming program is not yet active.
-
-{% page-ref page="vibes-protocol/governance-farming.md" %}
-
-### What is Liquidity Mining?
-
-Supply market liquidity for **VIBES** and earn. Liquidity mining stacks with governance farming. 
-
-The liquidity mining program is not yet active.
-
-{% page-ref page="vibes-protocol/liquidity-mining.md" %}
-
 ### How do I join VIBES?
 
 Becoming a VIBES member starts in your heart. If you want to build cool stuff with NFTs or make sick art, you're already most of the way there.
 
-If you want to make it official, grab some **VIBES** and hop into the [Discord](https://discord.gg/qDrsjcGR2F).
+If you want to make it official, grab some **VIBES,** mint a **SQNCR**, and hop into the [Discord](https://discord.gg/qDrsjcGR2F).
 
 {% page-ref page="vibes-protocol/vibes-token/where-to-get-vibes.md" %}
+
+{% page-ref page="vibes-protocol/sqncr.md" %}
 
 ### How do I contribute to VIBES?
 
@@ -140,7 +120,7 @@ Build something cool. Write something awesome. Make dope memes. Shitpost on Twit
 
 Contributing earns you **VIBES**, and everyone likes getting stacked.
 
-{% page-ref page="community/contributing.md" %}
+{% page-ref page="community/contributing/" %}
 
 ### How do I get the VIBES Member role in Discord?
 
@@ -153,6 +133,8 @@ Discord roles are managed automatically via the [Collab Land](https://collab.lan
 This is currently done on a case-by-case basis and is a permissioned action. If you have somebody in mind that would make a an awesome VIBES artist, reach out to the [VIBES multisig](community/governance.md#vibes-multisig).
 
 {% page-ref page="community/artists.md" %}
+
+In the future, on-chain curation and signaling mechanisms will be used to create a fully autonomous system for adding new artists.
 
 ### How did you "hack" Screensaver World NFTs to mine VIBES?
 

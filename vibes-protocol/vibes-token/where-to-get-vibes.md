@@ -6,8 +6,6 @@
 * Earn **VIBES**
 * Buy **VIBES**
 
-{% embed url="https://twitter.com/bvalosek/status/1411560189120106506" %}
-
 {% hint style="info" %}
 If you were an early collector on Screensaver or a supporter of the initial BVAL NFT project, you likely received a **VIBES** [airdrop](./#initial-airdrop). Check your [wallet](https://sickvibes.xyz/wallet)!
 {% endhint %}
@@ -26,7 +24,7 @@ VIBES is a community-owned protocol and invites open contribution, which is rewa
 
 Builder stipends and community bounties are paid out via the [VIBES multisig](../../community/governance.md#vibes-multisig).
 
-{% page-ref page="../../community/contributing.md" %}
+{% page-ref page="../../community/contributing/" %}
 
 {% page-ref page="../../community/bounties.md" %}
 

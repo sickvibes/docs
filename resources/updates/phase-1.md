@@ -23,9 +23,9 @@ If you're just getting caught up with what's going on on VIBES, the following st
 * Poke around on [sick vibes dot xyz](https://sickvibes.xyz)
 * Read these docs top to bottom, starting with [Welcome To VIBES](../../)
 * Read the [\#🗣️-announcements channel](https://discord.gg/ruag8nsGpB) on Discord
-* Watch the video from the [first community call](../community-calls.md) \(or read the writeup\)
+* Watch the video from the [first community call](../community-calls/2021-07-01-community-call.md) \(or read the writeup\)
 * Ask questions on Discord
-* Start [contributing](../../community/contributing.md)
+* Start [contributing](../../community/contributing/)
 
 Y'all ready for Phase 1 of VIBES?
 
@@ -36,7 +36,7 @@ Y'all ready for Phase 1 of VIBES?
 A [proposal](https://snapshot.org/#/sickvibes.eth/proposal/QmdwL7CMqaDjha3nJvm69HtHjUSH5Ma8ozhxm7YF4aYiRh) passed to allocate another 30 million **VIBES** to new artists in the form of [provenance mining](../../vibes-protocol/provenance-mining/) grants.
 
 * What happens when new [artists](../../community/artists.md) are responsible for distributing large portions of network equity from the [VIBES treasury](../../vibes-protocol/vibes-token/#provenance-mining-grant-program) to their collectors? 
-* How will artists use [VIBES Lab](../../vibes-protocol/vibes-lab.md) to \(re\)circulate **VIBES** inside of their NFTs in a fully permissionless way?
+* How will artists use [VIBES Lab]() to \(re\)circulate **VIBES** inside of their NFTs in a fully permissionless way?
 * Will collectors be incentivized to buy pieces injected with **VIBES**?
 * Will artists approach the VIBES NFTs they make differently than their usual pieces?
 * How will this round of artists explain VIBES to their collectors and followers?
@@ -45,7 +45,7 @@ A [proposal](https://snapshot.org/#/sickvibes.eth/proposal/QmdwL7CMqaDjha3nJvm69
 
 A [proposal](https://snapshot.org/#/sickvibes.eth/proposal/QmdwL7CMqaDjha3nJvm69HtHjUSH5Ma8ozhxm7YF4aYiRh) passed to allocate 3 million **VIBES** for community programs to reward people who contribute to VIBES via stipends and bounty payouts.
 
-* Will people be incentivized to [contribute](../../community/contributing.md) in exchange for early network equity?
+* Will people be incentivized to [contribute](../../community/contributing/) in exchange for early network equity?
 * Are [bounties](../../community/bounties.md) a useful on-boarding mechanisms for new contributors?
 * How will early VIBES NFT collectors use the **VIBES** mined inside of their NFTs?
 * What type of emergent branding, memes, and culture can be bootstrapped via an early-phase cryptonetwork?
@@ -55,9 +55,9 @@ A [proposal](https://snapshot.org/#/sickvibes.eth/proposal/QmdwL7CMqaDjha3nJvm69
 
 Several protocol additions are being developed right now to add to the on-chain [smart contract cluster](../architecture.md) that is currently powering VIBES.
 
-* Will [Governance Farming](../../vibes-protocol/governance-farming.md) incentivize market liquidity? 
-* When should VIBES deploy its [Liquidity Mining](../../vibes-protocol/liquidity-mining.md) program?
+* Will [Governance Farming]() incentivize market liquidity? 
+* When should VIBES deploy its [Liquidity Mining]() program?
 * Should the rate and total-lifetime-value numbers used with [provenance mining](../../vibes-protocol/provenance-mining/) be tweaked?
 * How can we create open standards around NFT collections and artist-owned NFT contracts that allow for interoperable curation and discovery mechanics?
-* What are the specific mechanics and actions that [VIBES Party](../../vibes-protocol/vibes-party.md) will allow?
+* What are the specific mechanics and actions that [VIBES Party]() will allow?
 

@@ -11,16 +11,15 @@
   * [💰 Treasury Allocations](vibes-protocol/vibes-token/treasury-allocations.md)
 * [💎 Provenance Mining](vibes-protocol/provenance-mining/README.md)
   * [Protocol Thesis](vibes-protocol/provenance-mining/protocol-thesis.md)
-* [🚜 Governance Farming](vibes-protocol/governance-farming.md)
-* [🧪 VIBES Lab](vibes-protocol/vibes-lab.md)
-* [🥳 VIBES Party](vibes-protocol/vibes-party.md)
-* [🤑 Liquidity Mining](vibes-protocol/liquidity-mining.md)
+* [🎛 SQNCR](vibes-protocol/sqncr.md)
 
 ## Community
 
 * [🎨 Artists](community/artists.md)
 * [🏛️ Governance](community/governance.md)
-* [💪 Contributing](community/contributing.md)
+* [⚖️ Markets](community/markets.md)
+* [💪 Contributing](community/contributing/README.md)
+  * [Ways To Contribute](community/contributing/ways-to-contribute.md)
 * [💰 Bounties](community/bounties.md)
 
 ## Resources
@@ -35,7 +34,8 @@
 * [📰 Updates](resources/updates/README.md)
   * [VIBES Prologue](resources/updates/prologue.md)
   * [VIBES Phase 1](resources/updates/phase-1.md)
-* [📹 Community Calls](resources/community-calls.md)
+* [📞 Community Calls](resources/community-calls/README.md)
+  * [2021-07-01 Community Call](resources/community-calls/2021-07-01-community-call.md)
 * [⚙️ Architecture](resources/architecture.md)
 
 ## Links
