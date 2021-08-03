@@ -27,7 +27,7 @@ An artist can seed any NFT they own with **VIBES,** either from their wallet or 
 Each VIBES NFT has its own supply of **VIBES** and each NFT is fully independent. Seeded **VIBES** cannot be accessed or removed by anyone except through provenance mining them over time, and the mining rate cannot be changed or stopped once started.
 
 {% hint style="info" %}
-This is currently a permissioned process that only the VIBES multisig can perform and is [limited to hand-selected artists](../../community/artists.md#provenance-mining-grant-recipients). 
+This is currently a permissioned process that only the VIBES multisig can perform and is [limited to hand-selected artists](../../community/artists/#provenance-mining-grant-recipients). 
 {% endhint %}
 
 ## Claiming Mined Tokens

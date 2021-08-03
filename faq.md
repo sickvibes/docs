@@ -78,7 +78,7 @@ Screensaver is dope... check out their [Discord](https://discord.gg/wGdTeU3kk4) 
 
 For now, this is a permissioned feature that is not widely available. VIBES artists are currently chosen by the [VIBES multisig](community/governance.md#vibes-multisig) and allocated **VIBES** to seed their NFTs with via the [Provenance Mining Grant Program](vibes-protocol/vibes-token/#provenance-mining-grant-program).
 
-{% page-ref page="community/artists.md" %}
+{% page-ref page="community/artists/" %}
 
 In the future, artists can be invited via on-chain mechanisms and other functionality will be built to allow anybody to seed their NFTs with **VIBES** they already own.
 
@@ -132,7 +132,7 @@ Discord roles are managed automatically via the [Collab Land](https://collab.lan
 
 This is currently done on a case-by-case basis and is a permissioned action. If you have somebody in mind that would make a an awesome VIBES artist, reach out to the [VIBES multisig](community/governance.md#vibes-multisig).
 
-{% page-ref page="community/artists.md" %}
+{% page-ref page="community/artists/" %}
 
 In the future, on-chain curation and signaling mechanisms will be used to create a fully autonomous system for adding new artists.
 

@@ -15,7 +15,8 @@
 
 ## Community
 
-* [🎨 Artists](community/artists.md)
+* [🎨 Artists](community/artists/README.md)
+  * [Artist Pilot Program](community/artists/artist-pilot-program.md)
 * [🏛️ Governance](community/governance.md)
 * [⚖️ Markets](community/markets.md)
 * [💪 Contributing](community/contributing/README.md)

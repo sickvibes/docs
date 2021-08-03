@@ -35,7 +35,7 @@ Y'all ready for Phase 1 of VIBES?
 
 A [proposal](https://snapshot.org/#/sickvibes.eth/proposal/QmdwL7CMqaDjha3nJvm69HtHjUSH5Ma8ozhxm7YF4aYiRh) passed to allocate another 30 million **VIBES** to new artists in the form of [provenance mining](../../vibes-protocol/provenance-mining/) grants.
 
-* What happens when new [artists](../../community/artists.md) are responsible for distributing large portions of network equity from the [VIBES treasury](../../vibes-protocol/vibes-token/#provenance-mining-grant-program) to their collectors? 
+* What happens when new [artists](../../community/artists/) are responsible for distributing large portions of network equity from the [VIBES treasury](../../vibes-protocol/vibes-token/#provenance-mining-grant-program) to their collectors? 
 * How will artists use [VIBES Lab]() to \(re\)circulate **VIBES** inside of their NFTs in a fully permissionless way?
 * Will collectors be incentivized to buy pieces injected with **VIBES**?
 * Will artists approach the VIBES NFTs they make differently than their usual pieces?
