@@ -17,6 +17,8 @@ We will have a gradual transition to a more autonomous and permissionless system
 ### Process
 
 * If you are part of the pilot program, decide on a piece you'd like to seed
+  * If your piece is not a 1:1 PNG, GIF, or JPEG, there may be some tweaks to the site required to get it to display properly
+  * If your "description" text is long or has formatting considerations / expectations, there may be some initial UI tweaks required as well
 * Tag the **@VIBES Multisig** in the private **\#artists** channel and provide the following information:
   * When you would like an NFT seeded \(you must own the NFT\). 
   * The total mineable value of the piece in **VIBES**
