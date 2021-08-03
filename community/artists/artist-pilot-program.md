@@ -26,7 +26,13 @@ We will have a gradual transition to a more autonomous and permissionless system
   * Mining rate must be 1,000 **VIBES** / day
   * Total mineable value must be at least 90,000 **VIBES** \(~3 months\)
   * Total mineable value must not be more than 1,095,000 **VIBES** \(~3 years\)
+  * You must have the NFT in your wallet at the time of seeding
 * The following are entirely up to you:
+  * If you seed your art or somebody else's
+  * If you seed a Screensaver NFT or an NFT from another contract \(must be on Polygon\)
+  * When you sell the piece. You do not have to sell it the moment it is seeded
+  * If you release incrementally or all at once
+  * If you coordinate with the other artists to stagger releases or work out any scheduled drops
   * How much you sell it and the auction / sale mechanic you use
   * If you give it away to collectors or a friend vs sell to top bidder
   * If you keep it, burn it, or give it away
