@@ -4,7 +4,7 @@
 
 In a nutshell, the liquidity pool \(which we'll call "LP" \) determines the value and stability of a token. Say you have made a token called Apple, and you want it to be worth 0.1 Matic. You would then create an LP on a decentralized exchange \(a “DEX” is an exchange where tokens are swapped and valued\) that has, e.g., 1000 Apples and 100 Matic. The ratio of Apples to Matic is 10:1, and someone can then purchase ten Apples in the DEX for a single Matic.
 
-However, when this purchase has been made, there are now 990 Apples and 101 Matic in the LP. So the price of Apples has gone up, and a single Matic will only get you 9.8 Apples. And so on. In this vastly simplified example. The LP keeps a pool of Apples and Matic to create a market for Apples. The DEX also charges a small fee for each transaction, and this fee is split up amongst the people that have Apples and Matic in the LP, according to the percentage of the pool they hold.
+However, when this purchase has been made, there are now 990 Apples and 101 Matic in the LP. So the price of Apples has gone up, and a single Matic will only get you 9.8 Apples. And so on. In this vastly simplified example, the LP keeps a pool of Apples and Matic to create a market for Apples. The DEX also charges a small fee for each transaction, and this fee is split up amongst the people that have Apples and Matic in the LP, according to the percentage of the pool they hold.
 
 And finally, the size of the pool determines the stability of the token. The more Apples and Matic there are in the pool, the harder it is to move the price. In the example above, the price could be moved by 2% with a single small purchase. But if the pool was 10,000 Apples and 1,000 Matic, it would barely move at all. A large pool makes it much more difficult for a single person to sell all their Apples and crater the value of the token, and it adds a general sense of confidence to the token.
 
@@ -14,11 +14,13 @@ And finally, the size of the pool determines the stability of the token. The mor
 2. **Governance Farming!** VIBES holders get to propose and vote on the direction the ecosystem takes, and LP tokens give the holder far more voting power.
 3. **You get a cut of the fees.** Every time a VIBES token is bought or sold on QuickSwap, you will receive a percentage of the fee for this exchange.
 
-## What Are the Risks?
+{% hint style="danger" %}
+**WARNING! RISK INVOLVED**!
 
 Being a part of the LP is not without risk. First and foremost, when someone buys or sells VIBES on the DEX, they're buying from or selling to you. So while the _ratio_ of your tokens will usually remain the same, according to when you added them, a large change in price can introduce impermanent loss. This is a complicated subject, too lengthy to cover here but know that it exists. In general, the larger the pool, the smaller the likelihood of impermanent loss, as the relative moves in the value of the tokens will be smaller.
 
 In addition, your pool tokens will reflect the "true" values of both tokens. So if both VIBES and Matic go down in value, you have effectively multiplied your loss in Matic. The corollary, however, is that if both VIBES and Matic go _up_ in value, you multiply your gains. Providing LP can be quite lucrative, but it can also be quite painful. Know what you're getting in to.
+{% endhint %}
 
 ## How Do I Add Liquidity?
 
