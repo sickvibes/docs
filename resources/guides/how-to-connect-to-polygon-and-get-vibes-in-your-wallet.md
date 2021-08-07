@@ -44,3 +44,5 @@ There is no ETH/VIBES pool, so in order to buy VIBES, you will first need to buy
 
 You now have Matic on the Polygon Mainnet! To work with VIBES on QuickSwap \(buying, selling, etc.\) you will need to add it, as VIBES has not yet been "blessed" by QuickSwap. To do this, in the "Select A Token" dialogue on QuickSwap, paste in the VIBES contract address, **0xd269af9008c674b3814b4830771453d6a30616eb** . You will only have to do this once, and then you can just type "VIBES" in the search window afterwards. Now you can buy or sell VIBES, and [add to the Liquidity Pool](how-to-supply-liquidity-for-vibes.md). 
 
+There is a macro on [the SickVibes wallet page](https://www.sickvibes.xyz/wallet) to add VIBES to MetaMask. If your wallet is connected, just click \[Track VIBES in Metamask\] and it will add VIBES to your MetaMask token list automatically. 
+
