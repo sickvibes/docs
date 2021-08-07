@@ -23,6 +23,14 @@ On  the Custom RPC page, enter the following information:
 
 Click "Save," and then the Networks dropdown will have Polygon Mainnet. You can then connect to Polygon/Matic-based sites with Metamask, assuming you have switched to this. Some sites such as ScreensaverWorld will ask you to switch, some like OpenSea will connect to both the Ethereum and Polygon networks, some will switch the network automatically, and some will just not connect unless you have manually switched. You will learn which site does what over time.
 
+## Buying Matic
+
+Now that you have the Polygon Mainnet, you can buy Matic directly [from MoonPay](https://www.moonpay.com/). 
+
+![](../../.gitbook/assets/image%20%287%29.png)
+
+Note that you will need to go through a verification process, there is a minimum purchase of US$30, and the fee is roughly equivalent to an ETH gas transaction fee. If you do not have ETH or WETH, this is an option, though. 
+
 ## Bridging ETH or WETH to Polygon
 
 In order to get all spendy-spend on the Polygon chain, you need Matic in your wallet. The easiest way to do this is to bridge some coin over. Most of the more popular tokens have pools on the Matic network, but we would recommend sticking to a very popular token like ETH, WETH, or SUSHI. Anything else might have wildly different exchange rates on Matic than it will on Ethereum, and you may lose money in the exchange. For this tutorial, we will bridge Ethereum. 
