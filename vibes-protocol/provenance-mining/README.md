@@ -20,11 +20,11 @@ Aren't you curious to see how this plays out? ****🤔
 If you want to dive deep on the ideas around provenance mining, [check out the Protocol Thesis writeup](protocol-thesis.md) that covers several potential outcomes and use cases of this concept.
 {% endhint %}
 
-## Seeding NFTs with VIBES
+## Infusing NFTs with VIBES
 
-An artist can seed any NFT they own with **VIBES,** either from their wallet or via [Provence Mining Grants](../vibes-token/treasury-allocations.md#provenance-mining-grant-program). 
+An artist can infuse any NFT they own with **VIBES,** either from their wallet or via [Provence Mining Grants](../vibes-token/treasury-allocations.md#provenance-mining-grant-program). 
 
-Each VIBES NFT has its own supply of **VIBES** and each NFT is fully independent. Seeded **VIBES** cannot be accessed or removed by anyone except through provenance mining them over time, and the mining rate cannot be changed or stopped once started.
+Each VIBES NFT has its own supply of **VIBES** and each NFT is fully independent. Infused **VIBES** cannot be accessed or removed by anyone except through provenance mining them over time, and the mining rate cannot be changed or stopped once started.
 
 {% hint style="info" %}
 This is currently a permissioned process that only the VIBES multisig can perform and is [limited to hand-selected artists](../../community/artists/#provenance-mining-grant-recipients). 
@@ -32,13 +32,13 @@ This is currently a permissioned process that only the VIBES multisig can perfor
 
 ## Claiming Mined Tokens
 
-Mined tokens can be claimed by the owner of the NFT at anytime \(as long as it isn't locked\), but tokens cannot be put back in the NFT after the initial supply has been seeded.
+Mined tokens can be claimed by the owner of the NFT at anytime \(as long as it isn't locked\), but tokens cannot be put back in the NFT after the initial supply has been infused.
 
 The NFT owner can use the [VIBES UI](https://sickvibes.xyz) to claim tokens, or chose to directly interact with the [VIBES Wellspring contract](../../resources/architecture.md#smart-contract-architecture) in the case that the site is no longer available.
 
 {% page-ref page="../../resources/guides/how-to-claim-vibes-from-an-nft.md" %}
 
-Claiming tokens does not stop the mining process and new tokens will continue to be mined so long as there are **VIBES** remaining from the initial seeded supply. Mined tokens can be claimed indefinitely, even after the entire supply has been mined.
+Claiming tokens does not stop the mining process and new tokens will continue to be mined so long as there are **VIBES** remaining from the initial infused supply. Mined tokens can be claimed indefinitely, even after the entire supply has been mined.
 
 Unclaimed tokens stay within the NFT across sales or transfers, and mining continues until supply runs out regardless of the current owner.
 

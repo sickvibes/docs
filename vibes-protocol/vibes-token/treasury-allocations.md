@@ -47,7 +47,7 @@ Roughly **1,350,000 VIBES** where distributed during this airdrop.‌
 
 The primary distribution method of VIBES is [Provenance Mining](https://app.gitbook.com/@vibes/s/vibes/~/drafts/-MeQNBFuYjdCPojZ49Xr/vibes-protocol/provenance-mining), which is managed autonomously by locking VIBES from the treasury into the [VIBES Wellspring contract](https://app.gitbook.com/@vibes/s/vibes/~/drafts/-MeQNBFuYjdCPojZ49Xr/resources/architecture).‌
 
-The Provenance Mining Grant Program allocates funds from the **VIBES** treasury to be seeded into NFTs created by VIBES artists.‌
+The Provenance Mining Grant Program allocates funds from the **VIBES** treasury to be infused into NFTs created by VIBES artists.‌
 
 This is currently a permissioned process gated by the [VIBES multisig](../../community/governance.md#vibes-multisig).
 

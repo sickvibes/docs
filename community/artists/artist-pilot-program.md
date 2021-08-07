@@ -8,7 +8,7 @@ The selected artists can be identified by the **@VIBES Artist** role in Discord.
 This initial group of artists was based on a set of criteria outlined [here](./#artist-considerations). 
 {% endhint %}
 
-## Seeding an NFT with VIBES
+## Infusing an NFT with VIBES
 
 Initially, infusing an NFT will require a transaction submitted by the [VIBES multisig](../governance.md#vibes-multisig) at the request of an artist. The multisig will simply act as the executive agent, the infusion operation will be credited to the artist requesting it on the blockchain and the [sickvibes.xyz](https://sickvibes.xyz) site.
 
