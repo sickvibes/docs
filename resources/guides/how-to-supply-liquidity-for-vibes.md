@@ -23,17 +23,8 @@ In addition, your pool tokens will reflect the "true" values of both tokens. So 
 ## How Do I Add Liquidity?
 
 {% hint style="info" %}
-**Prerequisites** to become a **Liquidity Provider** for **VIBES/MATIC** Pair
+If you do not have VIBES or Matic, you can not work with the Liquidity Pool. To learn how to get Matic and VIBES, and to work with the Polygon blockchain, we have written[ this handy guide.](how-to-connect-to-polygon-and-get-vibes-in-your-wallet.md)
 {% endhint %}
-
-In order to pool liquidity you must own both VIBES and MATIC in the same wallet address.
-
-1. **MATIC purchase process from ETH**
-   1. Transfer ETH from L1 to L2 using the Polygon bridge \([https://wallet.matic.network/bridge](https://wallet.matic.network/bridge)\)
-   2. Swap L2 ETH to Matic on L2 \([https://quickswap.exchange/\#/swap](https://quickswap.exchange/#/swap)\)
-2. **VIBES purchase process from Matic**
-   1. Buy Vibes by swapping from MATIC to VIBES using Quickswap
-   2. **Or** Open the following link: [https://www.sickvibes.xyz/wallet](https://www.sickvibes.xyz/wallet) and click Buy VIBES
 
 If you own VIBES and MATIC, the VIBES liquidity pool is on the QuickSwap DEX. In your [VIBES wallet view](https://www.sickvibes.xyz/wallet) on SickVibes, hit the [POOL Liquidity](https://quickswap.exchange/#/add/0xd269af9008c674b3814b4830771453d6a30616eb/ETH) link, and this will take you to QuickSwap and set up the token pair.
 
