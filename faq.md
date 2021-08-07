@@ -74,13 +74,13 @@ Screensaver is dope... check out their [Discord](https://discord.gg/wGdTeU3kk4) 
 🤔 All of these answers are correct. The real question is: what are **VIBES** worth to you?
 {% endhint %}
 
-### Can I seed my own NFTs with VIBES?
+### Can I infuse my own NFTs with VIBES?
 
-For now, this is a permissioned feature that is not widely available. VIBES artists are currently chosen by the [VIBES multisig](community/governance.md#vibes-multisig) and allocated **VIBES** to seed their NFTs with via the [Provenance Mining Grant Program](vibes-protocol/vibes-token/#provenance-mining-grant-program).
+For now, this is a permissioned feature that is not widely available. VIBES artists are currently chosen by the [VIBES multisig](community/governance.md#vibes-multisig) and allocated **VIBES** to infuse their NFTs with via the [Provenance Mining Grant Program](vibes-protocol/vibes-token/#provenance-mining-grant-program).
 
 {% page-ref page="community/artists/" %}
 
-In the future, artists can be invited via on-chain mechanisms and other functionality will be built to allow anybody to seed their NFTs with **VIBES** they already own.
+In the future, artists can be invited via on-chain mechanisms and other functionality will be built to allow anybody to infuse their NFTs with **VIBES** they already own.
 
 ### How can I get the VIBES airdrop?
 
