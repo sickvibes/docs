@@ -41,8 +41,6 @@
 
 ## Links
 
----
-
 * [VIBES](https://sickvibes.xyz)
 * [Discord](https://discord.gg/qDrsjcGR2F)
 * [Telegram](https://t.me/AbsoluteVibes)
