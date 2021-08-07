@@ -33,7 +33,7 @@ Note that you will need to go through a verification process, there is a minimum
 
 ## Bridging ETH or WETH to Polygon
 
-In order to get all spendy-spend on the Polygon chain, you need Matic in your wallet. The easiest way to do this is to bridge some coin over. Most of the more popular tokens have pools on the Matic network, but we would recommend sticking to a very popular token like ETH, WETH, or SUSHI. Anything else might have wildly different exchange rates on Matic than it will on Ethereum, and you may lose money in the exchange. For this tutorial, we will bridge Ethereum. 
+The easiest way to get Matic is to bridge some coin over. Most of the more popular tokens have pools on the Matic network, but we would recommend sticking to a very popular token like ETH, WETH, or SUSHI. Anything else might have wildly different exchange rates on Matic than it will on Ethereum, and you may lose money in the exchange. For this tutorial, we will bridge Ethereum. 
 
 There are three main reputable bridges. The largest, and the one we recommend, is [the Polygon bridge.](https://wallet.matic.network/bridge/) When you get to the page, connect your wallet. You will then be able to move Ethereum \(or whatever\) from Ethereum Mainnet to Polygon Mainnet. Enter in the amount of Ethereum you want to move to Polygon, and click "Transfer." You will then get a warning about delegation \(you can ignore this\) and a notification of the gas fee. This is a simple single transaction, and will be the base level Ethereum gas, but you should still do this when gas is low.   
 
