@@ -2,7 +2,7 @@
 
 ## What is a Liquidity Pool?
 
-In a nutshell, the liquidity pool \(which we'll call "LP" \) determines the value and stability of a token. Say you have made a token called Apple, and you want it to be worth 0.1 Matic. You would then create an LP on a decentralized exchange \(which we’ll call “DEX” is an exchange where tokens are swapped and valued\) that has, e.g., 1000 Apples and 100 Matic. The ratio of Apples to Matic is 10:1, and someone can then purchase ten Apples in the DEX for a single Matic.
+In a nutshell, the liquidity pool \(which we'll call "LP" \) determines the value and stability of a token. Say you have made a token called Apple, and you want it to be worth 0.1 Matic. You would then create an LP on a decentralized exchange \(a “DEX” is an exchange where tokens are swapped and valued\) that has, e.g., 1000 Apples and 100 Matic. The ratio of Apples to Matic is 10:1, and someone can then purchase ten Apples in the DEX for a single Matic.
 
 However, when this purchase has been made, there are now 990 Apples and 101 Matic in the LP. So the price of Apples has gone up, and a single Matic will only get you 9.8 Apples. And so on. In this vastly simplified example. The LP keeps a pool of Apples and Matic to create a market for Apples. The DEX also charges a small fee for each transaction, and this fee is split up amongst the people that have Apples and Matic in the LP, according to the percentage of the pool they hold.
 
