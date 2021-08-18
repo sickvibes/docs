@@ -37,6 +37,7 @@
   * [VIBES Prologue](resources/updates/prologue.md)
   * [VIBES Phase 1](resources/updates/phase-1.md)
 * [📞 Community Calls](resources/community-calls/README.md)
+  * [2021-08-17 What the Heck is VIBES?](resources/community-calls/2021-08-17-what-the-heck-is-vibes.md)
   * [2021-07-01 Community Call](resources/community-calls/2021-07-01-community-call.md)
 * [⚙️ Architecture](resources/architecture.md)
 
