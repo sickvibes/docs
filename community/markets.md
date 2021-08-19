@@ -6,6 +6,12 @@ Crypto and programmable blockchains give us a powerful new coordination layer as
 
 In order to connect this novel form of value instrumentation into something more liquid, and to ensure transformations of capital are possible, decentralized exchanges serve the important community role of establishing an open market for **VIBES**.
 
+{% hint style="info" %}
+VIBES is still in the very early stages of protocol architecture and design. While buying and selling of **VIBES** is possible currently, liquidity is likely to be low and market price is volatile. 
+
+Do not treat VIBES as a financial investment and be aware of the risks involved if you chose to supply liquidity to the market.
+{% endhint %}
+
 ## QuickSwap
 
 A VIBES-MATIC liquidity pool was setup on QuickSwap and initial liquidity was bootstrapped by the community.
@@ -22,7 +28,7 @@ By staking equal market values of **MATIC** and **VIBES** in the [QuickSwap](htt
 
 Liquidity providers earn fees when trades occur on the exchange, proportional to their share of the pool. Fees will accrue over time \(in both **VIBES** and **MATIC**\) and are automatically claimed when you exit the pool by turning in your **LP** tokens in exchange for your underlying **VIBES** and **MATIC** liquidity \(plus earned fees\).
 
-Being a liquidity provider can allow for passive earning, but it's not without risk. If the VIBES-MATIC market price changes substantially from when an LP entered the pool vs when they exited, their position will be worth less than if they had just held the individual assets. This is mathematical consequence of the market-making algorithm known as "impermanent loss".
+Being a liquidity provider can allow for passive earning, _but it's not without risk_. If the VIBES-MATIC market price changes substantially from when an LP entered the pool vs when they exited, their position will be worth less than if they had just held the individual assets. This is mathematical consequence of the market-making algorithm known as "impermanent loss".
 
 ## Disclaimer
 

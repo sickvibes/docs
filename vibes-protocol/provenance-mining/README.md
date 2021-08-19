@@ -36,8 +36,6 @@ Mined tokens can be claimed by the owner of the NFT at anytime \(as long as it i
 
 The NFT owner can use the [VIBES UI](https://sickvibes.xyz) to claim tokens, or chose to directly interact with the [VIBES Wellspring contract](../../resources/architecture.md#smart-contract-architecture) in the case that the site is no longer available.
 
-{% page-ref page="../../resources/guides/how-to-claim-vibes-from-an-nft.md" %}
-
 Claiming tokens does not stop the mining process and new tokens will continue to be mined so long as there are **VIBES** remaining from the initial infused supply. Mined tokens can be claimed indefinitely, even after the entire supply has been mined.
 
 Unclaimed tokens stay within the NFT across sales or transfers, and mining continues until supply runs out regardless of the current owner.
@@ -51,8 +49,6 @@ A token will automatically unlock after 30 days, or the owner may trigger a time
 The NFT owner can use the [VIBES UI](https://sickvibes.xyz) to lock tokens, or chose to directly interact with the [VIBES Wellspring contract](../../resources/architecture.md#smart-contract-architecture) in the case that the site is no longer available.
 
 The locking mechanism exists to prevent a front-running attack where a seller could claim the **VIBES** in an NFT right before the sale or transfer, resulting in the buyer holding an NFT that had be "drained" at the last moment.
-
-{% page-ref page="../../resources/guides/how-to-lock-a-vibes-nft.md" %}
 
 
 

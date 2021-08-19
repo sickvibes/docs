@@ -6,7 +6,7 @@ Terse answers to most questions:
 
 VIBES is a decentralized digital art collective, [cryptonetwork](vibes-protocol/vibes-token/), and experimental community of artists, collectors, builders, and enthusiasts. 
 
-We make cool art and ship dope products on the Polygon L2 blockchain. 
+We make cool art and ship dope products on the Polygon blockchain. 
 
 {% page-ref page="./" %}
 
@@ -19,8 +19,6 @@ We make cool art and ship dope products on the Polygon L2 blockchain.
 Polygon \(previously called Matic\) is a framework for building and connecting Ethereum-compatible blockchains, but generally when people talk about Polygon they are talking about the Polygon PoS network that can bridge digital assets bidirectionally with the Ethereum mainnet.
 
 VIBES currently is deployed to the Polygon PoS network.
-
-{% page-ref page="resources/guides/how-to-connect-to-vibes.md" %}
 
 ### Why Polygon?
 
@@ -50,6 +48,26 @@ There is no roadmap.
 
 {% page-ref page="resources/updates/phase-1.md" %}
 
+### What is Infusion?
+
+VIBES Curators can _infuse_ any NFT they own with **VIBES.** Infused **VIBES** are mined over time and made claimable by the owner of the NFT. 
+
+Infused **VIBES** stay within the NFT across sales or transfers if not claimed.
+
+We call this process "Provenance Mining"
+
+{% page-ref page="vibes-protocol/provenance-mining/" %}
+
+### How Do I Infuse My NFTs?
+
+Only VIBES Curators can infuse NFTs. 
+
+If you aren't a curator, several curators have been open to a "borrow and infuse" approach where they temporarily borrow an NFT to infuse for somebody else before transferring it back.
+
+### How Do I Become a VIBES Curator?
+
+The initial 10 curators were selected by the VIBES multisig. Additional curators can be onboarded by existing curators \(recursively\).
+
 ### What is a SQNCR?
 
 A SQNCR is a modular and customizable NFT-based digital project. It's an early-stage experiment from VIBES, but you can mint yours now!
@@ -58,7 +76,9 @@ A SQNCR is a modular and customizable NFT-based digital project. It's an early-s
 
 ### How does VIBES relate to Screensaver.World?
 
-VIBES is closely aligned with [Screensaver.World](https://screensaver.world), but there is no official association. Currently all VIBES NFTs are minted on their platform. The VIBES functionality built on top of Screensaver NFTs was done so permissionlessly -- one of the advantages of the open nature of blockchain applications and a core tenant of VIBES: 
+VIBES is closely aligned with [Screensaver.World](https://screensaver.world), but there is no official association. Currently all VIBES NFTs are minted on their platform. 
+
+The VIBES functionality built on top of Screensaver NFTs was done so permissionlessly -- one of the advantages of the open nature of blockchain applications and a core tenant of VIBES: 
 
 **Build first, ask for permission later**.
 
@@ -74,14 +94,6 @@ Screensaver is dope... check out their [Discord](https://discord.gg/wGdTeU3kk4) 
 🤔 All of these answers are correct. The real question is: what are **VIBES** worth to you?
 {% endhint %}
 
-### Can I infuse my own NFTs with VIBES?
-
-For now, this is a permissioned feature that is not widely available. VIBES artists are currently chosen by the [VIBES multisig](community/governance.md#vibes-multisig) and allocated **VIBES** to infuse their NFTs with via the [Provenance Mining Grant Program](vibes-protocol/vibes-token/#provenance-mining-grant-program).
-
-{% page-ref page="community/artists/" %}
-
-In the future, artists can be invited via on-chain mechanisms and other functionality will be built to allow anybody to infuse their NFTs with **VIBES** they already own.
-
 ### How can I get the VIBES airdrop?
 
 The **VIBES** airdrop program ran until July 12th, 2021 and is no longer active. All recipients of the initial airdrop are considered **Founding Members** of VIBES.
@@ -95,14 +107,6 @@ All VIBES NFTs are currently minted on [Screensaver.World](https://screensaver.w
 ### How do I claim mined VIBES?
 
 If you own a **VIBES** NFT that has claimable **VIBES**, you can use the Claim UI from the Token Detail page to claim the VIBES from your wallet. This is a one way operation!
-
-{% page-ref page="resources/guides/how-to-claim-vibes-from-an-nft.md" %}
-
-### What is Provenance Mining?
-
-VIBES NFTs continuously mine **VIBES** inside of them as an intrinsically staked digital asset. The owner of the NFT can [claim](resources/guides/how-to-claim-vibes-from-an-nft.md) the mined **VIBES** at any time, which is a one-way operation. Mined **VIBES** stay inside the NFTs across sales or transfers.
-
-{% page-ref page="vibes-protocol/provenance-mining/" %}
 
 ### How do I join VIBES?
 
@@ -126,16 +130,6 @@ Contributing earns you **VIBES**, and everyone likes getting stacked.
 
 Discord roles are managed automatically via the [Collab Land](https://collab.land) bot.
 
-{% page-ref page="resources/guides/how-to-get-vibes-discord-roles.md" %}
-
-### How are new VIBES artists added?
-
-This is currently done on a case-by-case basis and is a permissioned action. If you have somebody in mind that would make a an awesome VIBES artist, reach out to the [VIBES multisig](community/governance.md#vibes-multisig).
-
-{% page-ref page="community/artists/" %}
-
-In the future, on-chain curation and signaling mechanisms will be used to create a fully autonomous system for adding new artists.
-
 ### How did you "hack" Screensaver World NFTs to mine VIBES?
 
 That expression is a verbal abstraction -- a phrase that evokes the right understanding while being a lossy representation of the actual on-chain mechanisms that mediate the feature.
@@ -157,10 +151,6 @@ The [VIBES multisig](community/governance.md#vibes-multisig) is an executive gro
 
 The token and other contracts have not been audited by a third party.
 
-No information on this website \(or any other documents mentioned therein\) is or may be considered to be advice or an invitation to enter into an agreement for any investment purpose. Further, as **VIBES** represent an experimental abstract concept, nothing on this websites qualifies or is intended to be an offering of securities in any jurisdiction nor does it constitute an offer or an invitation to purchase shares, securities or other financial product.
+No information on this website \(or any other documents mentioned therein\) is or may be considered to be advice or an invitation to enter into an agreement for any investment purpose. Furthermore, as **VIBES** represent an experimental abstract concept, nothing on this website qualifies or is intended to be an offering of securities in any jurisdiction nor does it constitute an offer or an invitation to purchase shares, securities or other financial product.
 {% endhint %}
-
-### Wen Coin Gecko?
-
-When you make it happen! There's an open community bounty for it.
 

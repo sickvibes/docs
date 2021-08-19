@@ -10,14 +10,13 @@ The treasury is managed by the [VIBES multisig](../../community/governance.md#vi
 
 ## Circulating Supply <a id="founders-airdrop-program"></a>
 
-The following supply is considered to be in circulation from the original 1 billion tokens minted:
+The total circulating supply is basically everything that is not locked away in the Gnosis safe. This number will increase over time if additional community stipend programs or provenance mining grants are passed by the community.
 
-| Item | Amount |
-| :--- | :--- |
-| Founders Airdrop | 1,350,000 **VIBES** |
-| Community Programs | 3,000,000 **VIBES** |
-| Provenance Mining Grant Programs | 60,000,000 **VIBES** |
-| **TOTAL** | **64,350,000 VIBES** |
+As of August 2021, this is roughly 67 million **VIBES**. 
+
+{% hint style="info" %}
+See live protocol stats on the [Protocol Info page](https://www.sickvibes.xyz/protocol) on the VIBES site.
+{% endhint %}
 
 ## Founders Airdrop Program <a id="founders-airdrop-program"></a>
 
@@ -53,8 +52,8 @@ This is currently a permissioned process gated by the [VIBES multisig](../../com
 
 | Program | Date | Amount | Info |
 | :--- | :--- | :--- | :--- |
-| v1 | June - July 2021 | 30,000,000 **VIBES** | Initial launch with @bvalosek's art |
-| v1.1 | July - August 2021 | 30,000,000 **VIBES** | Initial multi-artist launch \([proposal](https://snapshot.org/#/sickvibes.eth/proposal/QmdwL7CMqaDjha3nJvm69HtHjUSH5Ma8ozhxm7YF4aYiRh)\) |
+| v1 | June - July 2021 | ~33,000,000 **VIBES** | Initial launch with @bvalosek's art |
+| v1.1 | July - August 2021 | ~30,000,000 **VIBES** | Initial multi-artist launch \([proposal](https://snapshot.org/#/sickvibes.eth/proposal/QmdwL7CMqaDjha3nJvm69HtHjUSH5Ma8ozhxm7YF4aYiRh)\) |
 
 ## Community Programs‌ <a id="community-programs"></a>
 
@@ -64,5 +63,5 @@ All community program funds are distributed via the [VIBES multisig](../../commu
 
 | Program | Date | Amount | Info |
 | :--- | :--- | :--- | :--- |
-| v1 | July 2021 | 3,000,000 **VIBES** | Initial community program \([proposal](https://snapshot.org/#/sickvibes.eth/proposal/QmdwL7CMqaDjha3nJvm69HtHjUSH5Ma8ozhxm7YF4aYiRh)\) |
+| v1 | July 2021 | ~3,000,000 **VIBES** | Initial community program \([proposal](https://snapshot.org/#/sickvibes.eth/proposal/QmdwL7CMqaDjha3nJvm69HtHjUSH5Ma8ozhxm7YF4aYiRh)\) |
 

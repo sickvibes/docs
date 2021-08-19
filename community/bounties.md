@@ -9,7 +9,7 @@ Bounties are used to encourage community action and contribution, or to incentiv
 Bounties are posted in the [\#🤑-bounties channel](https://discord.gg/UmUPEcMWad) on Discord by members of the VIBES multisig. This channel is read-only, but feel free to ask questions or clarifications in the general channel.
 
 {% hint style="info" %}
-If you have a cool idea for a bounty, suggest it! If it posted by the multisig, you'll get a community stipend once the bounty has been completed at least once.
+If you have a cool idea for a bounty, suggest it! If it is posted by the multisig, you'll get a community stipend once the bounty has been completed at least once.
 {% endhint %}
 
 ## How to Get Paid

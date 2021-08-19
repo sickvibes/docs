@@ -18,7 +18,7 @@ Go to [sickvibes.xyz/wallet](https://sickvibes.xyz/wallet) to see your vote powe
 
 ### Membership Threshold
 
-Currently, you must have **10,000 vote power** to get the [VIBES Member Discord role](../resources/guides/how-to-get-vibes-discord-roles.md) required to chat in the Governance channel or create a new Snapshot proposal.
+Currently, you must have **10,000 vote power** to get the [VIBES Member Discord role]() required to chat in the Governance channel or create a new Snapshot proposal.
 
 {% page-ref page="../vibes-protocol/vibes-token/where-to-get-vibes.md" %}
 
@@ -32,7 +32,7 @@ Currently, vote power is the sum of the values calculated from the following str
 
 * Current **VIBES** held in your wallet
 * Underlying supply of **VIBES** for **VIBES-MATIC LP** held in your wallet. This can change over time as the market price of **VIBES** on the exchange changes. 
-* Claimable **VIBES** within any VIBES NFTs currently held in your wallet. This will change over time as more **VIBES** are mined or **VIBES** are claimed. If you sell or transfer the NFT without [claiming](../resources/guides/how-to-claim-vibes-from-an-nft.md) the mined **VIBES**, your vote power will drop.
+* Claimable **VIBES** within any VIBES NFTs currently held in your wallet. This will change over time as more **VIBES** are mined or **VIBES** are claimed. If you sell or transfer the NFT without [claiming]() the mined **VIBES**, your vote power will drop.
 
 {% hint style="info" %}
 In order to incentivize liquidity in the short term and mitigate the fluctuation in the underlying **VIBES**, vote power from being an LP may have a static multiplier applied.
@@ -53,8 +53,6 @@ Use the [\#🏛️**-governance** channel ](https://discord.gg/C5TFZVjSZ5)on Dis
 ### Off-chain Signaling
 
 VIBES uses [Snapshot](https://snapshot.org/#/sickvibes.eth) for off-chain signaling, which lets you securely vote by using your web3 wallet to cast a signed ballot. 
-
-{% page-ref page="../resources/guides/how-to-vote-on-snapshot.md" %}
 
 Off-chain signaling is great for gauging community consensus around how to use shared resources or signal support for a change in the protocol. Feel free to use Snapshot in more creative ways if you think it'd be helpful or fun.
 

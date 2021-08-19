@@ -9,16 +9,17 @@ These ideas are really just the basics. VIBES is not tied to any specific market
 ## Creative and Design
 
 * **Create design assets**. Logos, icons, illustrations, guides, social avatars / headers. Be creative and be part of establishing the visual language and branding for VIBES.
+* **Create hype / promo vids and animations**. Cool short clips with VIBES branding, or featuring VIBES artwork, etc.
 * **Create memes**. Dank memes can earn you bags. Shitpost your way to fame and fortune.
 * **Ship content**. Long-form medium posts, VIBES artist interviews / highlights, YouTube videos/guides for VIBES, etc. 
 
 ## Social and Community
 
-* **Engage in Discord discussion**. Help answer questions, direct people to resources, discuss NFT trends, art, crypto, tech, and life.
+* **Engage in Discord discussion**. Help answer questions, direct people to resources, discuss NFT trends, art, crypto, news, tech, and life.
 * **Write docs and guides**. Cleanup organization and grammar, write new [guides](../../resources/guides/), create more cross-links. These docs are a living product and an important resource for the protocol.
-* **Social Media engagement**. Hype the collective on the timeline, share dank memes created by yourself or others. 
-* **Get others Involved**. VIBES is an early-stage protocol that is looking for curious and optimistic people to shape where we go. Get em in the Discord, get stacked.
-* **Host events**. Flash auctions, metaverse events, art gallery shows, etc. Reach out if you'd like some funds or art from the treasury to airdrop or raffle. 
+* **Social media engagement**. Hype the collective on the timeline, share dank memes created by yourself or others. 
+* **Get others involved**. VIBES is an early-stage protocol that is looking for curious and optimistic people to shape where we go. Get em in the Discord, get stacked.
+* **Host events**. Flash auctions, metaverse events, art gallery shows, Twitter Spaces/Clubhouse rooms, etc. Reach out if you'd like some funds or art from the treasury to airdrop or raffle. 
 
 ## Product and Development
 

@@ -1,6 +1,6 @@
 # 🌈 Welcome to VIBES
 
-\*\*\*\*[**VIBES**](https://sickvibes.xyz) **is a decentralized digital art collective and** [**cryptonetwork**](vibes-protocol/vibes-token/) **on the Polygon L2 blockchain.**
+\*\*\*\*[**VIBES**](https://sickvibes.xyz) **is a decentralized digital art collective and** [**cryptonetwork**](vibes-protocol/vibes-token/) **on the Polygon blockchain.**
 
 🏗️ We're an experimental [digital community sandbox](community/governance.md) for artists, collectors,  builders, and enthusiasts who want to ship cool stuff and make killer art. We create products that push the boundaries of NFTs, digital coordination, and web3 applications.
 

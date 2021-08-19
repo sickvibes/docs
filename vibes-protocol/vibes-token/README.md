@@ -35,7 +35,7 @@ The initially minted supply for **VIBES** was 1,000,000,000 \(1 billion\).
 
 Currently, funds have been allocated and distributed incrementally with unallocated funds held by the [VIBES multisig](../../community/governance.md#vibes-multisig).
 
-Total circulating supply, including tokens locked inside of rewards or provenance mining contracts, is roughly **65 million VIBES**.
+Total circulating supply is currently far less that the 1 billion minted.
 
 {% page-ref page="treasury-allocations.md" %}
 
