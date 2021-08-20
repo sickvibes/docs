@@ -26,8 +26,8 @@
 ## Resources
 
 * [📚 Guides](resources/guides/README.md)
-  * [❓ How to Connect to Polygon and Get VIBES in Your Wallet](resources/guides/how-to-connect-to-polygon-and-get-vibes-in-your-wallet.md)
-  * [❓ The  Vibes Liquidity Pool](resources/guides/how-to-supply-liquidity-for-vibes.md)
+  * [🔗 How to Connect to Polygon and Get VIBES in Your Wallet](resources/guides/how-to-connect-to-polygon-and-get-vibes-in-your-wallet.md)
+  * [💧 The  Vibes Liquidity Pool](resources/guides/how-to-supply-liquidity-for-vibes.md)
 * [📰 Updates](resources/updates/README.md)
   * [VIBES Prologue](resources/updates/prologue.md)
   * [VIBES Phase 1](resources/updates/phase-1.md)

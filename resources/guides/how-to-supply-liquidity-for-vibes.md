@@ -1,4 +1,4 @@
-# ❓ The  Vibes Liquidity Pool
+# 💧 The  Vibes Liquidity Pool
 
 ## What is a Liquidity Pool?
 

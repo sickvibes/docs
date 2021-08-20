@@ -1,4 +1,4 @@
-# ❓ How to Connect to Polygon and Get VIBES in Your Wallet
+# 🔗 How to Connect to Polygon and Get VIBES in Your Wallet
 
 If you are completely new to the Polygon Matic chain, and don't know how to get Matic or VIBES, this is the guide for you! For the purposes of this tutorial, we will assume you have Metamask installed, know how to use it, and have Ethereum \(ETH\) or Wrapped Ethereum \(WETH\) in it. If you don't, there are as many tutorials about how to do so as there are Punk NFTs, and they should be easy to find. 
 
