@@ -1,10 +1,10 @@
-# ⁉️ FAQ
+# ❓FAQ
 
 Terse answers to most questions:
 
 ### What is VIBES?
 
-VIBES is a decentralized digital art collective, [cryptonetwork](vibes-protocol/vibes-token/), and experimental community of artists, collectors, builders, and enthusiasts. 
+VIBES is a decentralized digital art collective, [cryptonetwork](protocol/vibes-token/), and experimental community of artists, collectors, builders, and enthusiasts. 
 
 We make cool art and ship dope products on the Polygon blockchain. 
 
@@ -16,27 +16,15 @@ We make cool art and ship dope products on the Polygon blockchain.
 
 ### What is Polygon? How do I connect to VIBES?
 
-Polygon \(previously called Matic\) is a framework for building and connecting Ethereum-compatible blockchains, but generally when people talk about Polygon they are talking about the Polygon PoS network that can bridge digital assets bidirectionally with the Ethereum mainnet.
+Polygon \(previously called Matic\) is an Ethereum-aligned "sidechain". It has near-free transaction costs and a two-second block time that makes for a speedy and fun user experience. 
 
-VIBES currently is deployed to the Polygon PoS network.
+VIBES currently is deployed to the Polygon network. If you have [MetaMask installed](https://metamask.io/), the [sickvibes.xyz](https://sickvibes.xyz) site will walk you through what's needed to get connected.
 
 ### Why Polygon?
 
-Polygon has effectively free transaction costs. This is crucial for reducing development and deployment hurdles and lowering user friction -- and we want to encourage experimentation and usage. 
+Polygon has nearly free transaction costs. This is crucial for reducing development and deployment hurdles and lowering user friction -- and we want to encourage experimentation and usage. 
 
 It's also 100% EVM compatible \(can deploy the [VIBES contract cluster](resources/architecture.md) on Ethereum or any other EVM chain\) and Ethereum-aligned \(not attempting to compete with Ethereum\).
-
-### Where do I get some VIBES?
-
-You can mine, earn, or buy **VIBES**.
-
-{% page-ref page="vibes-protocol/vibes-token/where-to-get-vibes.md" %}
-
-### What do I do with VIBES?
-
-**VIBES** is the coordination and utility token of VIBES that is used in protocol governance, VIBES products, and decentralized markets.
-
-{% page-ref page="vibes-protocol/vibes-token/how-to-use-vibes.md" %}
 
 ### What is the VIBES roadmap?
 
@@ -50,19 +38,17 @@ There is no roadmap.
 
 ### What is Infusion?
 
-VIBES Curators can _infuse_ any NFT they own with **VIBES.** Infused **VIBES** are mined over time and made claimable by the owner of the NFT. 
+Any NFT can be _infused_ with **VIBES**, effectively staking **VIBES** inside the NFT**.** Infused **VIBES** are mined over time and made claimable by the owner of the NFT. 
 
 Infused **VIBES** stay within the NFT across sales or transfers if not claimed.
 
-We call this process "Provenance Mining"
-
-{% page-ref page="vibes-protocol/provenance-mining/" %}
+This is the low-level mechanism \(referred to as "Provenance Mining"\) that enables interesting experiments within the VIBES collective.
 
 ### How Do I Infuse My NFTs?
 
 Only VIBES Curators can infuse NFTs. 
 
-If you aren't a curator, several curators have been open to a "borrow and infuse" approach where they temporarily borrow an NFT to infuse for somebody else before transferring it back.
+{% page-ref page="protocol/curation.md" %}
 
 ### How Do I Become a VIBES Curator?
 
@@ -72,7 +58,7 @@ The initial 10 curators were selected by the VIBES multisig. Additional curators
 
 A SQNCR is a modular and customizable NFT-based digital project. It's an early-stage experiment from VIBES, but you can mint yours now!
 
-{% page-ref page="vibes-protocol/sqncr.md" %}
+{% page-ref page="protocol/sqncr.md" %}
 
 ### How does VIBES relate to Screensaver.World?
 
@@ -98,53 +84,31 @@ Screensaver is dope... check out their [Discord](https://discord.gg/wGdTeU3kk4) 
 
 The **VIBES** airdrop program ran until July 12th, 2021 and is no longer active. All recipients of the initial airdrop are considered **Founding Members** of VIBES.
 
-{% page-ref page="vibes-protocol/vibes-token/where-to-get-vibes.md" %}
+{% page-ref page="protocol/vibes-token/treasury-allocations.md" %}
 
 ### Where can I buy VIBES NFTs?
 
-All VIBES NFTs are currently minted on [Screensaver.World](https://screensaver.world), so check out their marketplace and community. You can also visit the VIBES site at [sickvibes.xyz](https://sickvibes.xyz)
+Visit the VIBES homepage at [sickvibes.xyz](https://sickvibes.xyz) to see all VIBES art that is currently for sale.
 
 ### How do I claim mined VIBES?
 
 If you own a **VIBES** NFT that has claimable **VIBES**, you can use the Claim UI from the Token Detail page to claim the VIBES from your wallet. This is a one way operation!
 
-### How do I join VIBES?
-
-Becoming a VIBES member starts in your heart. If you want to build cool stuff with NFTs or make sick art, you're already most of the way there.
-
-If you want to make it official, grab some **VIBES,** mint a **SQNCR**, and hop into the [Discord](https://discord.gg/qDrsjcGR2F).
-
-{% page-ref page="vibes-protocol/vibes-token/where-to-get-vibes.md" %}
-
-{% page-ref page="vibes-protocol/sqncr.md" %}
-
-### How do I contribute to VIBES?
-
-Build something cool. Write something awesome. Make dope memes. Shitpost on Twitter to hype the collective. Edit these docs for spellign mistakes. 
-
-Contributing earns you **VIBES**, and everyone likes getting stacked.
-
-{% page-ref page="community/contributing/" %}
-
-### How do I get the VIBES Member role in Discord?
-
-Discord roles are managed automatically via the [Collab Land](https://collab.land) bot.
-
 ### How did you "hack" Screensaver World NFTs to mine VIBES?
 
 That expression is a verbal abstraction -- a phrase that evokes the right understanding while being a lossy representation of the actual on-chain mechanisms that mediate the feature.
 
-"I hacked my Screensaver World NFTs to continuously mine VIBES over time" is more accurately said as "I deployed a bookkeeping contract that references the Screensaver NFT contract and locks **VIBES** that can be released via a time-lock mechanism".
+"I hacked my Screensaver World NFTs to continuously mine VIBES over time" is more accurately said as "I deployed a bookkeeping contract that references the Screensaver NFT contract and locks **VIBES** inside it that can be released via a time-lock mechanism".
 
 {% page-ref page="resources/architecture.md" %}
 
 ### What is the VIBES Multisig?
 
-The [VIBES multisig](community/governance.md#vibes-multisig) is an executive group that requires 3-of-5 consensus to transfer [treasury funds](vibes-protocol/vibes-token/treasury-allocations.md) and control the [protocol smart contracts](resources/architecture.md).
+The [VIBES multisig](protocol/governance.md#vibes-multisig) is an executive group that requires 3-of-5 consensus to transfer [treasury funds](protocol/vibes-token/treasury-allocations.md) and control the [protocol smart contracts](resources/architecture.md).
 
 ### Will VIBES make me rich? Should I sell my VIBES? Is VIBES a good investment?
 
-**VIBES** is designed to be a coordination and utility token.
+**VIBES** is designed to be an experimental curation and utility token.
 
 {% hint style="danger" %}
 **VIBES** is not a currency, financial instrument, or security. 
