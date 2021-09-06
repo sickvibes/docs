@@ -11,7 +11,7 @@ VIBES is still in the very early stages of protocol architecture and design. Whi
   
 **Do not treat VIBES as a financial investment** and be aware of the risks involved if you chose to supply liquidity to the market.
 
-**There is no need to buy or sell VIBES at this time**. The best way to get VIBES is to support artists, buy their art, and [mine VIBES over time](mining-vibes/).
+**There is no need to buy or sell VIBES at this time**. The best way to get **VIBES** is to support artists, buy their art, and [mine VIBES over time](mining-vibes/).
 {% endhint %}
 
 ## QuickSwap

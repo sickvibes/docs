@@ -28,7 +28,7 @@ The best way to participate and earn **VIBES** is to support VIBES Artists. **Bu
 
 **VIBES** is a community-owned decentralized protocol that invites open contribution. While the initial core team will continue to iterate on the project, **it's important that others continue to step up and build on the protocol**.
 
-Build first, ask for permission later. 
+🚀 Build first, ask for permission later. 
 
 {% hint style="info" %}
 Got some ideas on where VIBES can go? [Hop in the Discord](https://discord.gg/qDrsjcGR2F) and let's chat 🤙

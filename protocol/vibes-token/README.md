@@ -35,7 +35,7 @@ The token contract is verified on [polygonscan](https://polygonscan.com/token/0x
 
 The initially minted supply for **VIBES** was 1,000,000,000 \(1 billion\).
 
-Currently, funds have been allocated and distributed incrementally with unallocated funds held by the [VIBES multisig](../governance.md#vibes-multisig).
+Funds have been allocated and distributed incrementally with unallocated funds held by the [VIBES multisig](../governance.md#vibes-multisig).
 
 Total circulating supply is currently far less that the 1 billion minted \(see the [Protocol Info](https://www.sickvibes.xyz/protocol) page on [sickvibes.xyz](https://www.sickvibes.xyz/)\)
 

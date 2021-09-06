@@ -1,15 +1,15 @@
 # 💖 Community
 
-A core part of VIBES is the **decentralized curation network** made up of **Artists**, **Curators**, and **Collectors**. Each role is important in shaping the VIBES network, and most members will be some combination of all three.
+At the heart of VIBES is a **decentralized curation network** made up of **Artists**, **Curators**, and **Collectors**. Each role is important in shaping the VIBES network, and most members will be some combination of all three.
 
-Completely open minting platforms like OpenSea and Screensaver World are important to ensure nobody is excluded from creating NFTs and sharing their art, but can make discovery challenging. 
+Completely open minting platforms like OpenSea and Screensaver World are important to ensure nobody is excluded from creating NFTs and sharing their art, but discoverability can be a challenge.
 
-Centralized curated platforms like Foundation can result in higher quality collections of art, but can be exclusionary and myopic, as well as inherit the problems around gatekeeping from the web2 world.
+Centralized curated platforms like Foundation can result in higher quality collections of art, but can be exclusionary and myopic, inheriting many of the problems around gatekeeping from the web2 world.
 
-**VIBES approaches curation in a decentralized way,** empowering Curators with a substantial amount of freedom and choice to shape the network as they see fit.
+**VIBES approaches curation in a decentralized way,** empowering Curators with a substantial amount of freedom and choice to form the network as they see fit.
 
 {% hint style="info" %}
-**No single voice can shape the VIBES network.**
+**No single voice can shape the VIBES network.** 
 
 🥳 We embrace a rich diversity of thought, art, and expression. VIBES celebrates the massive range of our community's creative output and style.
 {% endhint %}

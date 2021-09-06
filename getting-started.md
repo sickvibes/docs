@@ -9,7 +9,7 @@ Below is a semi-linear approach you can use if you are at the very start of your
 If you've never used a decentralized web3 application before:
 
 * [Install MetaMask,](https://metamask.io/) a browser extension that lets you access the blockchain from web apps in your browser. Once installed, visit [sickvibes.xyz](https://sickvibes.xyz) and it will walk you through switching to Polygon.
-* [Get some MATIC](https://matic.supply/). You will need a \(very\) small amount of MATIC to use the Polygon network. $1 USD worth of **MATIC** should be enough for 100s of transactions. 
+* [Get some MATIC](https://matic.supply/). You will need a \(very\) small amount of MATIC to use the Polygon network. $1 USD worth of **MATIC** should be enough for 1000s of transactions. 
 
 ## Connecting to VIBES
 

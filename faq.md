@@ -54,6 +54,20 @@ Only VIBES Curators can infuse NFTs.
 
 The initial 10 curators were selected by the VIBES multisig. Additional curators can be onboarded by existing curators \(recursively\).
 
+**There are no standard guidelines, rules, requirements, or criteria for being a curator.** Each curator has full autonomy to use the protocol as they see fit, including how and why they add more curators.
+
+### Do I Need to Be a Curator to Get My Art into VIBES?
+
+No. Share your art on Twitter \(and tag [@sickvibesxyz](https://twitter.com/sickvibesxyz)\) or in the [VIBES Discord](https://discord.gg/qDrsjcGR2F), and a curator may reach out.
+
+Each curator will have their own process and selection criteria, so take some time to understand how the community is operating and **respect the boundaries of the curators**.
+
+### How Do I Get VIBES?
+
+The best way to get **VIBES** is to support VIBES Artists and collect their NFTs that have been curated in the VIBES network. Curated NFTs mine **VIBES** over time that can be claimed by collectors.
+
+{% page-ref page="protocol/mining-vibes/" %}
+
 ### What is a SQNCR?
 
 A SQNCR is a modular and customizable NFT-based digital project. It's an early-stage experiment from VIBES, but you can mint yours now!

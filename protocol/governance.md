@@ -2,16 +2,22 @@
 
 VIBES is a decentralized [cryptonetwork](vibes-token/) that is owned by the community. 
 
+While VIBES is a token-coordinated protocol, **it was designed to be as governance-minimal as possible** and encourage more [decentralized coordination](curation.md#influence) and [organization](community.md) over monolithic "governance".
+
+{% hint style="info" %}
+🚀 You do not need anybody's approval to start building in VIBES.
+{% endhint %}
+
 ## Process
 
-VIBES is a process-minimal organization, but below is a rough outline of how we coordinate governance.
+VIBES is a process-minimal organization, but below is a rough outline of how we coordinate.
 
 ### Discord Discussion
 
 Protocol governance starts with informal discussion on Discord. Have an idea? Want to see something changed? Float it in the chat and see what others think. 
 
 {% hint style="info" %}
-Use the [\#🏛️**-governance** channel ](https://discord.gg/C5TFZVjSZ5)on Discord to discuss any ideas for changes or possible future proposals for VIBES.
+Use the [\#⚙️-protocol channel](https://discord.gg/C5TFZVjSZ5) on Discord to discuss any ideas for changes or possible future proposals for VIBES.
 {% endhint %}
 
 ### Off-chain Signaling
@@ -43,7 +49,7 @@ The multisig is a social-layer coordination group, and a Gnosis Safe has been de
 
 Multisig action is only required occasionally, and the community, protocol, and art collective can evolve and change without any need to involve the multisig.
 
-You do not need the approval of the multisig to start building in VIBES.
+**You do not need the approval of the multisig to start building in VIBES.**
 {% endhint %}
 
 The address of the multisig Gnosis Safe:
@@ -56,7 +62,7 @@ The multisig is responsible for:
 * Setting / resetting [Influence](curation.md) for curators
 * [Smart Contract](../resources/architecture.md) administration and protocol control
 * [Snapshot Space](https://snapshot.org/#/sickvibes.eth) configuration
-* Discord administration
+* [Discord](https://discord.gg/qDrsjcGR2F) administration
 
 #### VIBES Multisig Members
 
