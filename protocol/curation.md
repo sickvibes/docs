@@ -40,7 +40,7 @@ You can see all addresses that have been assigned Influence on [Curators List](h
 
 ### Details
 
-The total amount of assigned influence is likely to exceed the amount of available **VIBES** that could actually be infused into NFTs; this is intentional.
+The total amount of assigned Influence is likely to exceed the amount of available **VIBES** that could actually be infused into NFTs; this is intentional.
 
 Influence is not a token, it's mostly a way of **decentralizing the assignment and delegation of responsibility** in a crypto-native and dynamic way. Avoiding the use of a token here allows for more design flexibility in the protocol and provides a capital-independent assignment of network control. 
 
